@@ -82,7 +82,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div id=\"_trustvox_colt\"></div>"
+      "html": "<!-- Trustvox --><script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script><script>var _trustvox_colt = _trustvox_colt || [];_trustvox_colt.push(['_storeId', '1507'], ['_limit', '7']);</script><!-- /Trustvox --><div id=\"_trustvox_colt\"></div>"
     },
     {
       "type": "banners-grid",
