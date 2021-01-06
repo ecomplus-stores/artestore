@@ -93,7 +93,20 @@
     },
     {
       "src": "/img/uploads/feito-a-mao.png"
-    }
+    },
+    {
+      "src": "/img/uploads/3.png"
+    },
+    {
+      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-2-.png"
+    },
+    {
+      "src": "/img/uploads/2.png"
+    },
+    {
+      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-4-.png"
+    },
+    {}
   ],
   "payment_methods": {
     "bb": true,
