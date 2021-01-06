@@ -94,6 +94,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/feito-a-mao.png"
     }
   ],
   "payment_methods": {
