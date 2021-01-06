@@ -92,21 +92,25 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/feito-a-mao.png"
+      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-4-.png",
+      "alt": "Artestore Marca Registrada"
     },
     {
-      "src": "/img/uploads/3.png"
+      "src": "/img/uploads/3.png",
+      "alt": "Praticamos preço justo"
     },
     {
-      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-2-.png"
+      "src": "/img/uploads/feito-a-mao.png",
+      "alt": "Produtos feitos à mão"
     },
     {
-      "src": "/img/uploads/2.png"
+      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-2-.png",
+      "alt": "Responsabilidade Social, sem exploração animal"
     },
     {
-      "src": "/img/uploads/copia-de-copia-de-copia-de-feito-a-mao-4-.png"
-    },
-    {}
+      "src": "/img/uploads/2.png",
+      "alt": "Reciclagem e reaproveitamento de matéria prima natural"
+    }
   ],
   "payment_methods": {
     "bb": true,
