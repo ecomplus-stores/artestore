@@ -81,6 +81,10 @@
       "description": "Moda sustentável, produção artesanal feita à mão com responsabilidade social e ambiental. Nossa principal matéria prima é a palha, trançada por artesãos de várias regiões do Brasil, que chega às nossas mãos para ganhar formas e cores. Prezamos pela valorização do trabalho artesanal, sem exploração da mão de obra e sem prática de preços abusivos para nossos clientes. Acreditamos que assim, fazemos a diferença, comercializando produtos de qualidade com responsabilidade e preço justo."
     },
     {
+      "type": "custom-html",
+      "html": "<div id=\"_trustvox_colt\"></div>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
