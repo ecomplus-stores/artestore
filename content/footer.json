@@ -90,6 +90,10 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/artestore-marca-registrada__.png",
+      "alt": "Artestore Marca Registrada"
     }
   ],
   "payment_methods": {
