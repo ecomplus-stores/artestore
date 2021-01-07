@@ -90,10 +90,6 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    },
-    {
-      "src": "/img/uploads/feito-a-mao.png",
-      "alt": "Produtos feitos à mão"
     }
   ],
   "payment_methods": {
