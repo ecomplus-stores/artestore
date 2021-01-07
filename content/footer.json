@@ -94,10 +94,6 @@
     {
       "src": "/img/uploads/feito-a-mao.png",
       "alt": "Produtos feitos à mão"
-    },
-    {
-      "src": "/img/uploads/selo-qualidade-artestore_.png",
-      "alt": "Qualidade de Acabamento"
     }
   ],
   "payment_methods": {
