@@ -88,12 +88,8 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/conexao-segura.png",
+      "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    },
-    {
-      "src": "/img/uploads/marca-registrada-artestore.png",
-      "alt": "Marca Registrada"
     },
     {
       "src": "/img/uploads/preco-justo.png",
@@ -102,14 +98,6 @@
     {
       "src": "/img/uploads/feito-a-mao.png",
       "alt": "Produtos feitos à mão"
-    },
-    {
-      "src": "/img/uploads/pet-friendly.png",
-      "alt": "Proteção animal"
-    },
-    {
-      "src": "/img/uploads/reproveitamento.png",
-      "alt": "Reciclagem e reaproveitamento de matéria prima natural"
     }
   ],
   "payment_methods": {
