@@ -92,12 +92,12 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/preco-justo.png",
-      "alt": "Praticamos Preço Justo"
-    },
-    {
       "src": "/img/uploads/feito-a-mao.png",
       "alt": "Produtos feitos à mão"
+    },
+    {
+      "src": "/img/uploads/preco-justo.png",
+      "alt": "Praticamos Preço Justo"
     }
   ],
   "payment_methods": {
