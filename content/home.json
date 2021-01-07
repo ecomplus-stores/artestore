@@ -77,8 +77,8 @@
     },
     {
       "type": "page-title",
-      "title": "Artestore, Bolsas de Palha, Praia e Acessórios",
-      "description": "Moda sustentável, produção artesanal feita à mão com responsabilidade social e ambiental. Nossa principal matéria prima é a palha, trançada por artesãos de várias regiões do Brasil, que chega às nossas mãos para ganhar formas e cores. Prezamos pela valorização do trabalho artesanal, sem exploração da mão de obra e sem prática de preços abusivos para nossos clientes. Acreditamos que assim, fazemos a diferença, comercializando produtos de qualidade com responsabilidade e preço justo."
+      "title": "Artestore, Bolsas de Palha e Acessórios",
+      "description": "Moda sustentável, produção artesanal feita à mão com carinho e amor. Nossa principal matéria prima é a palha, trançada por artesãos de várias regiões do Brasil, que chega às nossas mãos para ganhar formas e cores. Prezamos pela valorização do trabalho artesanal, sem exploração da mão de obra de nossos artesãos e sem a prática de preços abusivos para nossos clientes. Acreditamos que assim, estamos fazemos a diferença, comercializando produtos de qualidade com responsabilidade e preço justo."
     },
     {
       "type": "custom-html",
@@ -107,7 +107,7 @@
           "alt": "Artestore - Pet Friendly",
           "link": ""
         },
-                {
+        {
           "img": "/img/uploads/marca-registrada-artestore.png",
           "alt": "Artestore - Marca Registrada",
           "link": ""
