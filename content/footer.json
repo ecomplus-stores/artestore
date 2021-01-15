@@ -97,7 +97,8 @@
     },
     {
       "src": "http://abcomm.com.br/selo.php",
-      "alt": "Empresa Associada ABCOMM"
+      "alt": "Empresa Associada ABCOMM",
+      "link": "https://abcomm.org/certificado.php?url=bolsadepalha.com.br"
     }
   ],
   "payment_methods": {
