@@ -96,9 +96,9 @@
       "alt": "Artestore Marca Registrada"
     },
     {
-      "src": "http://abcomm.com.br/selo.php",
+      "src": "<a href=\"javascript:window.open('http://abcomm.org/certificado.php?url= artestore.com.br', 'c_TW', 'location=no, toolbar=no, width=600, height=670');\"><img src='http://abcomm.com.br/selo.php' width='70' border='0'></a>",
       "alt": "Empresa Associada ABCOMM",
-      "link": "https://abcomm.org/certificado.php?url=bolsadepalha.com.br"
+      "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
     }
   ],
   "payment_methods": {
