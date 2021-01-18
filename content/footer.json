@@ -96,7 +96,7 @@
       "alt": "Artestore Marca Registrada"
     },
     {
-      "src": "<a href=\"javascript:window.open('http://abcomm.org/certificado.php?url= artestore.com.br', 'c_TW', 'location=no, toolbar=no, width=600, height=670');\"><img src='http://abcomm.com.br/selo.php' width='70' border='0'></a>",
+      "src": "https://abcomm.com.br/selos/Selo_EmpresaAssociada.png",
       "alt": "Empresa Associada ABCOMM",
       "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
     }
