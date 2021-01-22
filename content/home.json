@@ -43,6 +43,15 @@
       "link": "https://www.artestore.com.br/bolsas-com-madeira/"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "mobile_img": "/img/uploads/2.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
@@ -105,15 +114,6 @@
         {
           "img": "/img/uploads/marca-registrada.png",
           "alt": "Artestore - Marca Registrada"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/1.png",
-          "mobile_img": "/img/uploads/2.png"
         }
       ]
     }
