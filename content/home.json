@@ -73,7 +73,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-artestore-moda-sustentavel.png",
-      "alt": "Artestore Moda Sustentável Peças Artesanais"
+      "alt": "Artestore Moda Sustentável Peças Artesanais",
+      "mobile_img": "/img/uploads/banner-artestore-moda-sustentavel-m.png"
     },
     {
       "type": "page-title",
