@@ -92,9 +92,12 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/selo-cert-abcomm.png",
+      "src": "/img/uploads/selo-abcomm.png",
       "alt": "Empresa Associada ABCOMM",
       "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
+    },
+    {
+      "src": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/5596abe2e4b0f49cc3ffe613/images/5e3c896304286364bc94fd71/file-yKpVv7zOEV.png"
     }
   ],
   "payment_methods": {
