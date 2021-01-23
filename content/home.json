@@ -18,9 +18,9 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/urbana.png",
-          "link": "https://www.artestore.com.br/clutches-e-carteiras/",
-          "alt": "Combo de Carteiras com Desconto Progressivo",
-          "mobile_img": "/img/uploads/combo-bolsas-desconto-m.webp"
+          "link": "https://www.artestore.com.br/bolsas-de-praia/",
+          "alt": "Bolsas de Palha Artesanais",
+          "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.png"
         }
       ]
     },
@@ -66,6 +66,11 @@
       "collection_id": "5f3445fdf023684cdbd9d122:collections:Chapéus e Viseiras:/chapeus-e-viseiras-boinas",
       "title": "VER TODOS OS CHAPÉUS, VISEIRAS E BOINAS",
       "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-vitalicio.png",
+      "alt": "Artestore Moda Sustentável Peças Artesanais"
     },
     {
       "type": "page-title",
@@ -116,11 +121,6 @@
           "alt": "Artestore - Marca Registrada"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/copia-de-vitalicio.png",
-      "alt": "Artestore Moda Sustentável Peças Artesanais"
     }
   ]
 }
