@@ -9,18 +9,18 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-artestore-p.webp",
+          "img": "/img/uploads/bolsa-de-palha-praia-artestore-home.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Bolsas de Praia Artestore, Moda Praia Sustentável",
-          "mobile_img": "/img/uploads/banner-artestore-m.webp"
+          "mobile_img": "/img/uploads/bolsa-de-palha-praia-artestore-home-m.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/urbana.png",
+          "img": "/img/uploads/bolsas-de-palha-moda-urbana-praia.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Bolsas de Palha Artesanais",
-          "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.png"
+          "mobile_img": "/img/uploads/bolsas-de-palha-moda-urbana-praia-m.webp"
         }
       ]
     },
@@ -46,11 +46,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/001.png",
-          "mobile_img": ""
+          "img": "/img/uploads/bolsa-de-palha-pra-grid.webp",
+          "mobile_img": "",
+          "alt": "Moda Sustentável Bolsas de Praia"
         },
         {
-          "img": "/img/uploads/002.png"
+          "img": "/img/uploads/bolsa-de-palha-grid.webp",
+          "alt": "Bolsas de Palha Artesanais Feitas à Mão"
         }
       ]
     },
@@ -72,9 +74,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-artestore-moda-sustentavel.png",
+      "img": "/img/uploads/artestore-moda-sustentavel-banner.webp",
       "alt": "Artestore Moda Sustentável Peças Artesanais",
-      "mobile_img": "/img/uploads/banner-artestore-moda-sustentavel-m.png"
+      "mobile_img": "/img/uploads/artestore-moda-sustentavel-banner-m.webp"
     },
     {
       "type": "page-title",
