@@ -46,11 +46,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banne-praia-com-bolsas-artestore.png",
+          "img": "/img/uploads/001.png",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner-bolsas-de-palha-2021.png"
+          "img": "/img/uploads/002.png"
         }
       ]
     },
