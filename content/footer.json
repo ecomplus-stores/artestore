@@ -92,11 +92,7 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/artestore-marca-registrada__.png",
-      "alt": "Artestore Marca Registrada"
-    },
-    {
-      "src": "/img/uploads/selo-abcomm.png",
+      "src": "http://abcomm.com.br/selo.php",
       "alt": "Empresa Associada ABCOMM",
       "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
     }
