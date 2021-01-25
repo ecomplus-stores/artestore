@@ -92,14 +92,14 @@
       "alt": "Secure connection"
     },
     {
+      "src": "/img/uploads/selo-trustvox-reclame-aqui.png",
+      "alt": "Opiniões Verdadeiras e Auditadas pelo Reclame Aqui",
+      "link": "https://certificados.trustvox.com.br/artestore"
+    },
+    {
       "src": "/img/uploads/selo-abcomm.png",
       "alt": "Empresa Associada ABCOMM",
       "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
-    },
-    {
-      "src": "/img/uploads/0001-15892831948_20210123_052125_0000.png",
-      "alt": "Opiniões Verdadeiras e Auditadas pelo Reclame Aqui",
-      "link": "https://certificados.trustvox.com.br/artestore"
     }
   ],
   "payment_methods": {
