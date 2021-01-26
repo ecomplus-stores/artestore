@@ -46,14 +46,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/copia-de-copia-de-copia-de-simples-foto-de-arara-de-roupas-moda-post-para-facebook-3-.png",
-          "mobile_img": "/img/uploads/copia-de-copia-de-copia-de-simples-foto-de-arara-de-roupas-moda-post-para-facebook-7-.png",
+          "img": "/img/uploads/banner-moda-qualidade-.webp",
+          "mobile_img": "",
           "alt": "Moda Sustentável Bolsas de Praia"
         },
         {
-          "img": "/img/uploads/copia-de-copia-de-copia-de-simples-foto-de-arara-de-roupas-moda-post-para-facebook-5-.png",
+          "img": "/img/uploads/pecas-artesanais-artestore-banner.webp",
           "alt": "Bolsas de Palha Artesanais Feitas à Mão",
-          "mobile_img": "/img/uploads/copia-de-copia-de-copia-de-simples-foto-de-arara-de-roupas-moda-post-para-facebook-6-.png"
+          "mobile_img": ""
         }
       ]
     },
