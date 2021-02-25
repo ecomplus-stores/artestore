@@ -25,13 +25,6 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/combo-bolsas-desconto.webp",
-      "link": "https://www.artestore.com.br/clutches-e-carteiras/",
-      "alt": "Combo de Carteiras Várias Cores",
-      "mobile_img": "/img/uploads/combo-bolsas-desconto-m.webp"
-    },
-    {
       "type": "blog",
       "enabled": true
     }
