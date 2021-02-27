@@ -37,6 +37,24 @@
       "link": "https://www.artestore.com.br/clutches-e-carteiras/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 21,
+      "page": 1,
+      "collection_id": "5ec2ff0d126b0d057213d120:collections:Lenços:/lencos-vitrine",
+      "title": "Ver todas cores em lenços",
+      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5ed03856126b0d0572163f0d:categories:Chapéus:/chapeus-e-viseiras/",
+      "title": "Ver todas as cores em chapéus",
+      "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
