@@ -23,12 +23,22 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5ec2faa8126b0d057213d0d1:collections:Bolsas de Praia:/vitrine",
-      "title": "Nossas opções de cores"
+      "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas de Praia:/bolsas-de-praia/",
+      "title": "Ver todas nossas cores",
+      "link": "https://www.artestore.com.br/bolsas-de-praia/"
     },
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/",
+      "title": "Ver todas cores de carteiras",
+      "link": "https://www.artestore.com.br/clutches-e-carteiras/"
     }
   ]
 }
