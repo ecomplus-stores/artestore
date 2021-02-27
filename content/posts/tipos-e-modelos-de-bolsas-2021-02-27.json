@@ -11,6 +11,27 @@
       "img": "/img/uploads/tipos-e-modelos-de-bolsas.webp",
       "alt": "Tipos e Modelos de Bolsas",
       "mobile_img": "/img/uploads/tipos-e-modelos-de-bolsas-m.webp"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas de Praia:/bolsas-de-praia/",
+      "title": "Ver todos nossos modelos de bolsas",
+      "link": "https://www.artestore.com.br/bolsas-de-praia/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Ver todas carteiras e clutches",
+      "link": "https://www.artestore.com.br/clutches-e-carteiras/"
     }
   ],
   "thumbnail": "/img/uploads/tipos-e-modelos-de-bolsas-m.webp"
