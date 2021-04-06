@@ -45,7 +45,8 @@
       "collection_id": "5ec1a403126b0d057213ac2d:categories:Bolsas de Palha:/bolsas-de-palha/",
       "title": "As queridinhas das nossas clientes",
       "link": "https://www.artestore.com.br/bolsas-de-praia/",
-      "sort": "sales"
+      "sort": "sales",
+      "limit": 5
     },
     {
       "type": "banners-grid",
@@ -65,7 +66,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 8,
       "page": 1,
       "collection_id": "5fdd60e969274c73fceac57c:collections:Clutches e Carteiras de Mão:/clutches-e-carteiras-de-mao",
       "sort": "sales",
