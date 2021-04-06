@@ -43,13 +43,6 @@
       "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5ec1a40d126b0d057213ac41:categories:Bolsas com Madeira:/bolsas-com-madeira/",
-      "title": "Clique Aqui Para Ver Todas Bolsas em Madeira",
-      "link": "https://www.artestore.com.br/bolsas-com-madeira/"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -72,13 +65,6 @@
       "link": "https://www.artestore.com.br/clutches-e-carteiras/",
       "title": "Clique Aqui Para Ver Todas Carteiras",
       "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5f3445fdf023684cdbd9d122:collections:Chapéus e Viseiras:/chapeus-e-viseiras-boinas",
-      "title": "VER TODOS OS CHAPÉUS, VISEIRAS E BOINAS",
-      "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
     },
     {
       "type": "responsive-banner",
@@ -133,6 +119,27 @@
         {
           "img": "/img/uploads/marca-registrada.png",
           "alt": "Artestore - Marca Registrada"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/categoria-bolsas.png",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/"
+        },
+        {
+          "img": "/img/uploads/categoria-clutches.png",
+          "link": "https://www.artestore.com.br/clutches-e-carteiras/"
+        },
+        {
+          "img": "/img/uploads/categoria-chapeus.png",
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+        },
+        {
+          "img": "/img/uploads/categoria-acessorios.png",
+          "link": "https://www.artestore.com.br/acessorios"
         }
       ]
     }
