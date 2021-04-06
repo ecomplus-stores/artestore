@@ -38,19 +38,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/categoria-bolsas.png",
+          "img": "/img/uploads/categoria-bolsas-de-palha.png",
           "link": "https://www.artestore.com.br/bolsas-de-praia/"
         },
         {
-          "img": "/img/uploads/categoria-clutches.png",
+          "img": "/img/uploads/categoria-clutches-e-carteiras.png",
           "link": "https://www.artestore.com.br/clutches-e-carteiras/"
         },
         {
-          "img": "/img/uploads/categoria-chapeus.png",
+          "img": "/img/uploads/categoria-chapeus-e-viseiras.png",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
         },
         {
-          "img": "/img/uploads/categoria-acessorios.png",
+          "img": "/img/uploads/categoria-chapeus-e-viseiras.png",
           "link": "https://www.artestore.com.br/acessorios"
         }
       ]
