@@ -19,19 +19,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 21,
+      "limit": 9,
       "page": 1,
       "collection_id": "5ec2faa8126b0d057213d0d1:collections:Bolsas de Praia:/vitrine",
-      "title": "Ver todos nossos modelos de bolsas",
+      "title": "Bolsas Mais Vendidas",
       "link": "https://www.artestore.com.br/bolsas-de-praia/",
       "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "title": "Ver todas carteiras e clutches",
+      "title": "Clutches mais vendidas",
       "link": "https://www.artestore.com.br/clutches-e-carteiras/",
       "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/",
       "sort": "sales"
