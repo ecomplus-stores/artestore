@@ -9,6 +9,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-artestore-p.webp",
+          "mobile_img": "/img/uploads/banner-artestore-m.webp",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
           "alt": "Compre e Ganhe um Aromatizador",
           "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp"
@@ -20,13 +27,6 @@
           "mobile_img": "/img/uploads/banner-urbana-praia-artestore-m.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Bolsas de Palha Moda Sustentável"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-artestore-p.webp",
-          "mobile_img": "/img/uploads/banner-artestore-m.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/"
         }
       ]
     },
