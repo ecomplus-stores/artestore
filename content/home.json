@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 6000,
+      "autoplay": 60000,
       "slides": [
         {
           "start": "",
@@ -56,6 +56,15 @@
           "mobile_img": ""
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": 1,
+      "link": "https://www.artestore.com.br/clutches-e-carteiras/",
+      "title": "Clique Aqui Para Ver Todas Carteiras",
+      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/"
     },
     {
       "type": "responsive-banner",
