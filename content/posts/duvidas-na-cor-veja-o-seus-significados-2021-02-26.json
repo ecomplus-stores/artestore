@@ -19,40 +19,34 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas de Praia:/bolsas-de-praia/",
-      "title": "Ver todas nossas cores",
-      "link": "https://www.artestore.com.br/bolsas-de-praia/"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/categoria-bolsas-de-palha.png",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/",
+          "alt": "Confira nossas Bolsas em todas as cores"
+        },
+        {
+          "img": "/img/uploads/categoria-clutches.png",
+          "alt": "Confira nossas Clutches em todas as cores",
+          "link": "https://www.artestore.com.br/clutches-e-carteiras/"
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/",
-      "title": "Ver todas cores de carteiras",
-      "link": "https://www.artestore.com.br/clutches-e-carteiras/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "5ec2ff0d126b0d057213d120:collections:Lenços:/lencos-vitrine",
-      "title": "Ver todas cores em lenços",
-      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "5ed03856126b0d0572163f0d:categories:Chapéus:/chapeus-e-viseiras/",
-      "title": "Ver todas as cores em chapéus",
-      "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/categoria-chapeus-e-viseiras.png",
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
+          "alt": "Confira nossos Chapéus em todas as cores"
+        },
+        {
+          "img": "/img/uploads/categoria-acessorios.png",
+          "alt": "Confira nossos Acessórios em todas as cores",
+          "link": "https://www.artestore.com.br/acessorios"
+        }
+      ]
     },
     {
       "type": "blog",
