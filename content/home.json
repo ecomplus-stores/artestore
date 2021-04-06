@@ -3,32 +3,10 @@
   "meta_description": "Bolsas de palha carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 6000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-artestore-p.webp",
-          "mobile_img": "/img/uploads/banner-artestore-m.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
-          "alt": "Compre e Ganhe um Aromatizador",
-          "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-urbana-praia-artestore.webp",
-          "mobile_img": "/img/uploads/banner-urbana-praia-artestore-m.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Bolsas de Palha Moda Sustentável"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
+      "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp",
+      "alt": "Compre e Ganhe um Aromatizador de Ambientes"
     },
     {
       "type": "info-bar",
