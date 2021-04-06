@@ -21,10 +21,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas de Praia:/bolsas-de-praia/",
-      "title": "Clique aqui para ver todos os modelos!",
+      "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas:/bolsas-de-praia/",
+      "title": "Mais Vendidas",
       "link": "https://www.artestore.com.br/bolsas-de-praia/",
-      "limit": 20
+      "limit": 12,
+      "sort": "sales"
     },
     {
       "type": "blog",
