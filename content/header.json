@@ -14,7 +14,13 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/todos-os-produtos?Todos os Produtos",
+      "/bolsas-de-praia/?Bolsas",
+      "/chapeus-e-viseiras/?Chapéus",
+      "/clutches-e-carteiras/?Clutch e Carteiras",
+      "/acessorios?Acessórios"
+    ],
     "random": 6,
     "full_width": true
   },
