@@ -19,9 +19,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "605a4ee44b948446086929c7:categories:Palha de Buriti:/palha-de-buriti",
-      "title": "Ver todas de bolsas de palha de buriti",
+      "title": "Mais vendidas de palha de buriti",
       "link": "https://www.artestore.com.br/palha-de-buriti",
-      "sort": "sales"
+      "sort": "sales",
+      "limit": 8
     },
     {
       "type": "custom-content",
@@ -31,9 +32,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "605a4ef54b948446086929d0:categories:Palha de Carnaúba:/palha-de-carnauba",
-      "title": "Ver todas as bolsas em palha de carnaúba",
+      "title": "Mais vendidas em palha de carnaúba",
       "link": "https://www.artestore.com.br/palha-de-carnauba",
-      "sort": "sales"
+      "sort": "sales",
+      "limit": 8
     },
     {
       "type": "custom-content",
@@ -43,9 +45,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f7622d57430f92180f7888f:collections:Bolsas de Palha Indiana:/bolsas-praia-palha-indiana",
-      "title": "Ver todas as bolsas em palha indiana",
+      "title": "Mais vendidas em palha indiana",
       "link": "https://www.artestore.com.br/bolsas-praia-palha-indiana",
-      "sort": "sales"
+      "sort": "sales",
+      "limit": 8
     },
     {
       "type": "custom-content",
@@ -55,9 +58,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec1a40d126b0d057213ac41:categories:Bolsas com Madeira:/bolsas-com-madeira/",
-      "title": "Ver todas as bolsas com madeira",
+      "title": "Mais vendidas com madeira",
       "link": "https://www.artestore.com.br/bolsas-com-madeira/",
-      "sort": "sales"
+      "sort": "sales",
+      "limit": 8
     },
     {
       "type": "custom-content",
@@ -66,11 +70,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 8,
       "page": 1,
       "collection_id": "605a4f9c4b94844608692a36:categories:Palha de Milho:/palha-de-milho",
-      "title": "Ver todas as bolsas com palha de milho",
-      "link": "https://www.artestore.com.br/palha-de-milho"
+      "title": "Mais vendidas em palha de milho",
+      "link": "https://www.artestore.com.br/palha-de-milho",
+      "sort": "sales"
     },
     {
       "type": "custom-content",
@@ -79,11 +84,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 8,
       "page": 1,
       "collection_id": "605a757e4b9484460869448e:categories:Sisal:/sisal",
       "sort": "sales",
-      "title": "Ver Todas as Bolsas em Sisal",
+      "title": "Mais vendidas em Sisal",
       "link": "https://www.artestore.com.br/sisal"
     },
     {
@@ -93,11 +98,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 8,
       "page": 1,
       "collection_id": "605a5f654b94844608693554:categories:Macramê:/macrame",
       "sort": "sales",
-      "title": "Ver todas as bolsas em macramê",
+      "title": "Mais vendidas em macramê",
       "link": "https://www.artestore.com.br/macrame"
     },
     {
@@ -111,7 +116,7 @@
       "page": 1,
       "collection_id": "605a5f534b9484460869354d:categories:Crochê:/croche",
       "sort": "sales",
-      "title": "Ver todas as bolsas em crochê",
+      "title": "Mais vendidas em crochê",
       "link": "https://www.artestore.com.br/croche"
     }
   ]
