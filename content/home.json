@@ -3,6 +3,12 @@
   "meta_description": "Bolsas de palha carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
+      "alt": "Compre e Ganhe um Aromatizador de Ambientes",
+      "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -10,11 +16,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/categoria-bolsas-de-palha.webp",
+          "img": "/img/uploads/categoria-bolsas.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/"
         },
         {
-          "img": "/img/uploads/categoria-clutches-e-carteiras.webp",
+          "img": "/img/uploads/categoria-clutches.webp",
           "link": "https://www.artestore.com.br/clutches-e-carteiras/"
         }
       ]
@@ -23,7 +29,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/categoria-chapeus-e-viseiras.webp",
+          "img": "/img/uploads/categoria-chapeus.webp",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
           "mobile_img": ""
         },
@@ -122,12 +128,6 @@
           "alt": "Artestore - Marca Registrada"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
-      "alt": "Compre e Ganhe um Aromatizador de Ambientes",
-      "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp"
     }
   ]
 }
