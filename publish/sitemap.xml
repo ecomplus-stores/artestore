@@ -110,6 +110,48 @@
     </url>
   
     <url>
+      <loc>https://www.artestore.com.br/vitrine</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/joias-bijuterias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/lencos-vitrine</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/chapeus-e-viseiras-boinas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/bolsas-de-praia-palha-caranuba</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/bolsas-praia-palha-indiana</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.artestore.com.br/clutches-e-carteiras-de-mao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.artestore.com.br/chaveiro-adereco-enfeite-para-bolsas-filtro-dos-sonhos-dreamcatcher-keychain</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1265,48 +1307,6 @@
       <loc>https://www.artestore.com.br/bolsa-malinha-de-praia-palha-buriti-grande-menta-c428</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/vitrine</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/joias-bijuterias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/lencos-vitrine</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/chapeus-e-viseiras-boinas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/bolsas-de-praia-palha-caranuba</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/bolsas-praia-palha-indiana</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.artestore.com.br/clutches-e-carteiras-de-mao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
