@@ -24,12 +24,14 @@
         {
           "img": "/img/uploads/categoria-bolsas.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Confira nossas Bolsas em todas as cores"
+          "alt": "Confira nossas Bolsas em todas as cores",
+          "mobile_img": "/img/uploads/categoria-bolsas-m.webp"
         },
         {
           "img": "/img/uploads/categoria-clutches.webp",
           "alt": "Confira nossas Clutches em todas as cores",
-          "link": "https://www.artestore.com.br/clutches-e-carteiras/"
+          "link": "https://www.artestore.com.br/clutches-e-carteiras/",
+          "mobile_img": "/img/uploads/categoria-clutches-m.webp"
         }
       ]
     },
@@ -39,12 +41,14 @@
         {
           "img": "/img/uploads/categoria-chapeus.webp",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
-          "alt": "Confira nossos Chapéus em todas as cores"
+          "alt": "Confira nossos Chapéus em todas as cores",
+          "mobile_img": "/img/uploads/categoria-chapeus-m.webp"
         },
         {
           "img": "/img/uploads/categoria-acessorios.webp",
           "alt": "Confira nossos Acessórios em todas as cores",
-          "link": "https://www.artestore.com.br/acessorios"
+          "link": "https://www.artestore.com.br/acessorios",
+          "mobile_img": "/img/uploads/categoriacessorios-m.webp"
         }
       ]
     },
