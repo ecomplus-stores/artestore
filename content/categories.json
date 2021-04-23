@@ -19,12 +19,6 @@
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/compre-e-ganhe-aromatizador.webp",
-      "alt": "Compre e Ganhe Aromatizador Bambu",
-      "mobile_img": "/img/uploads/compre-e-ganhe-aromatizador-m.webp"
     }
   ]
 }
