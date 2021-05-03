@@ -3,6 +3,20 @@
   "meta_description": "Bolsas de palha carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/artestore-chapeu-de-brinde-desktop.png",
+          "link": "https://www.artestore.com.br/dia-das-maes",
+          "mobile_img": "/img/uploads/artestore-chapeu-de-brinde-mobile.png"
+        },
+        {
+          "img": "/img/uploads/reducao-de-frete.webp",
+          "mobile_img": "/img/uploads/reducao-frete-w.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/reducao-de-frete.webp",
       "alt": "Compre e Ganhe um Aromatizador de Ambientes",
