@@ -7,10 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-05-03T19:01:23.831Z",
+          "start": "2021-05-11T19:22:41.992Z",
           "end": "",
-          "img": "/img/uploads/reducao-de-frete.webp",
-          "mobile_img": "/img/uploads/reducao-frete-w.png"
+          "img": "/img/uploads/bolsas-frete-gratis.png",
+          "mobile_img": "/img/uploads/bolsas-com-frete-gratis-m.png",
+          "link": "https://www.artestore.com.br/frete-gratis",
+          "alt": "Seleção de Bolsas com Frete Grátis"
         }
       ]
     },
