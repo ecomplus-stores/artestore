@@ -3,18 +3,9 @@
   "meta_description": "Bolsas de palha carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-05-11T19:32:41.968Z",
-          "end": "",
-          "img": "/img/uploads/bolsas-frete-gratis.webp",
-          "mobile_img": "/img/uploads/bolsas-com-frete-gratis-m.webp",
-          "link": "https://www.artestore.com.br/frete-gratis",
-          "alt": "Seleção de Bolsas com Frete Grátis"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-free-shipping-delivery-online-shop-instagram-post-with-graphic-truck-illustration-1-.png",
+      "mobile_img": "/img/uploads/copia-de-bolsa-de-palha-moda-urbana-e-moda-praia-2-.png"
     },
     {
       "type": "info-bar",
