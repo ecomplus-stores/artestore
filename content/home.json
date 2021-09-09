@@ -5,7 +5,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/bolsas-palha-frete-gratis.png",
-      "mobile_img": "/img/uploads/bolsas-frete-gratis-m.png"
+      "mobile_img": "/img/uploads/bolsas-frete-gratis-m.png",
+      "link": "https://www.artestore.com.br/bolsas-palha-frete-gratis"
     },
     {
       "type": "info-bar",
