@@ -53,16 +53,17 @@
     },
     {
       "type": "custom-content",
-      "markdown": "### Bambu e Madeira\n\nO bambu não é propriamente uma palha, mas tem se usado usualmente para definir esse tipo de fibra natural quando se fala em bolsa. O bambu é um material sustentável e eficiente em termos de energia. É de rápido crescimento, algumas espécies de bambu alcançam alturas de até 25 metros dentro de 5 anos. Ele é leve, possui alguma maleabilidade e é um recurso natural rapidamente renovável e abundante no planeta, tendo inúmeras finalidades. O plantio de bambu é importante contribuição ambiental, por sequestrar altas taxas de carbono. Na moda, especificamente no Brasil, o bambu é utilizado na confecção de bolsas em substituição ao couro. a partir de 1940, por um alguns nomes famosos da moda internacional e logo se torna um objeto de desejo. A moda atual refaz novamente esses passos e hoje a bolsa de bambu volta a ser exaltada e desejada no mundo fashion. A madeira também tem sido muito utilizada na confecção de bolsas, tanto o corpo da bolsa em madeira, como às vezes só a lateral e principalmente nas alças."
+      "markdown": "### Palha de Piaçava\n\nEssa palha é encontrada predominantemente no interior da Bahia. Possui estipe liso e cilíndrico, desde subterrâneo até 15 m, folhas eretas, verde-escuras, com pecíolo longo, e frutos comestíveis. Também é conhecida pelos nomes de coqueiro-piaçaba, japeraçaba, pau-piaçaba, piaçabeira, **piassava**, piaçaba, piassaba, piaçaveira e vai-tudo.\n\nA piaçava para artesanato e bolsas é usada através de tranças que têm previamente seus fios tingidos para depois os artesãos produzirem o trançado. Esse trançado pode ser feito com a palha na sua cor natural que é bem clarinha ou em diversas cores. Depois das tranças feitas elas são moldadas e costuradas em diversos formatos."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "sort": "sales",
-      "title": "Clique AQUI para ver Todas as Bolsas com Madeira",
-      "link": "https://www.artestore.com.br/bolsas-com-madeira/"
+      "link": "https://www.artestore.com.br/palha-de-piacava",
+      "title": "Clique AQUI para ver Todas as Bolsas de Palha de Piaçava",
+      "collection_id": "605a4fc24b94844608692a4a:categories:Palha de Piaçava:/palha-de-piacava",
+      "sort": "sales"
     },
     {
       "type": "custom-content",
@@ -80,17 +81,17 @@
     },
     {
       "type": "custom-content",
-      "markdown": "### Palha de Piaçava\n\nEssa palha é encontrada predominantemente no interior da Bahia. Possui estipe liso e cilíndrico, desde subterrâneo até 15 m, folhas eretas, verde-escuras, com pecíolo longo, e frutos comestíveis. Também é conhecida pelos nomes de coqueiro-piaçaba, japeraçaba, pau-piaçaba, piaçabeira, **piassava**, piaçaba, piassaba, piaçaveira e vai-tudo.\n\nA piaçava para artesanato e bolsas é usada através de tranças que têm previamente seus fios tingidos para depois os artesãos produzirem o trançado. Esse trançado pode ser feito com a palha na sua cor natural que é bem clarinha ou em diversas cores. Depois das tranças feitas elas são moldadas e costuradas em diversos formatos."
+      "markdown": "### Bambu e Madeira\n\nO bambu não é propriamente uma palha, mas tem se usado usualmente para definir esse tipo de fibra natural quando se fala em bolsa. O bambu é um material sustentável e eficiente em termos de energia. É de rápido crescimento, algumas espécies de bambu alcançam alturas de até 25 metros dentro de 5 anos. Ele é leve, possui alguma maleabilidade e é um recurso natural rapidamente renovável e abundante no planeta, tendo inúmeras finalidades. O plantio de bambu é importante contribuição ambiental, por sequestrar altas taxas de carbono. Na moda, especificamente no Brasil, o bambu é utilizado na confecção de bolsas em substituição ao couro. a partir de 1940, por um alguns nomes famosos da moda internacional e logo se torna um objeto de desejo. A moda atual refaz novamente esses passos e hoje a bolsa de bambu volta a ser exaltada e desejada no mundo fashion. A madeira também tem sido muito utilizada na confecção de bolsas, tanto o corpo da bolsa em madeira, como às vezes só a lateral e principalmente nas alças."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "link": "https://www.artestore.com.br/palha-de-piacava",
-      "title": "Clique AQUI para ver Todas as Bolsas de Palha de Piaçava",
-      "collection_id": "605a4fc24b94844608692a4a:categories:Palha de Piaçava:/palha-de-piacava",
-      "sort": "sales"
+      "sort": "sales",
+      "title": "Clique AQUI para ver Todas as Bolsas com Madeira",
+      "link": "https://www.artestore.com.br/bolsas-com-madeira/",
+      "collection_id": "5ec1a40d126b0d057213ac41:categories:Bolsas com Madeira:/bolsas-com-madeira/"
     },
     {
       "type": "custom-content",
