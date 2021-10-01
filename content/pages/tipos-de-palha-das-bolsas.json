@@ -79,6 +79,20 @@
     },
     {
       "type": "custom-content",
+      "markdown": "### Palha de Piaçava\n\nEssa palha é encontrada predominantemente no interior da Bahia. Possui estipe liso e cilíndrico, desde subterrâneo até 15 m, folhas eretas, verde-escuras, com pecíolo longo, e frutos comestíveis. Também é conhecida pelos nomes de coqueiro-piaçaba, japeraçaba, pau-piaçaba, piaçabeira, **piassava**, piaçaba, piassaba, piaçaveira e vai-tudo.\n\nA piaçava para artesanato e bolsas é usada através de tranças que têm previamente seus fios tingidos para depois os artesãos produzirem o trançado. Esse trançado pode ser feito com a palha na sua cor natural que é bem clarinha ou em diversas cores. Depois das tranças feitas elas são moldadas e costuradas em diversos formatos."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "605a4fc24b94844608692a4a:categories:Palha de Piaçava:/palha-de-piacava",
+      "sort": "sales",
+      "title": "Mais vendidas em Palha de Piaçava",
+      "link": "https://www.artestore.com.br/palha-de-piacava"
+    },
+    {
+      "type": "custom-content",
       "markdown": "### <h3>Sisal</h3>\n\nÉ uma corda feita da fibra das folhas da Agave sisalana, planta originária do México e encontrada aqui no Brasil, na Bahia e Paraíba. Com essa corda é possível fazer tapeçaria e acessórios como bolsas e chapéus.\n\n* [Veja os modelos de bolsa de sisal](https://www.artestore.com.br/sisal)"
     },
     {
