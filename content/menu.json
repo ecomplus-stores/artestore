@@ -1,5 +1,13 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "bolsas-de-praia/",
+    "clutches-e-carteiras/",
+    "chapeus-e-viseiras/",
+    "acessorios",
+    "kits",
+    "todos-os-produtos"
+  ],
   "phone_wpp": false,
-  "socials": false
+  "socials": false,
+  "alphabetical_order": true
 }
