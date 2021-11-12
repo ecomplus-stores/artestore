@@ -28,21 +28,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categoria-chapeus.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
-          "mobile_img": "/img/uploads/categoria-chapeus-m.webp"
-        },
-        {
-          "img": "/img/uploads/categoria-acessorios.webp",
-          "link": "https://www.artestore.com.br/acessorios",
-          "mobile_img": "/img/uploads/categoriacessorios-m.webp"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
