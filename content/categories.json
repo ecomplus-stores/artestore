@@ -19,6 +19,11 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sobre-palha-de-buriti-bolsas.png",
+      "mobile_img": "/img/uploads/sobre-palha-de-buriti-bolsas-m.png"
     }
   ]
 }
