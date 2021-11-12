@@ -22,8 +22,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/sobre-palha-de-buriti-bolsas.png",
-      "mobile_img": "/img/uploads/sobre-palha-de-buriti-bolsas-m.png"
+      "img": "/img/uploads/sobre-palha-de-buriti-bolsas.webp",
+      "mobile_img": "/img/uploads/sobre-palha-de-buriti-bolsas-m.webp",
+      "alt": "Origem e usos da Árvore de Buriti: no artesanato, na alimentação e com fins medicinais"
     }
   ]
 }
