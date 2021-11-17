@@ -13,26 +13,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-moda-qualidade-.webp",
-          "mobile_img": "",
-          "alt": "Moda Sustentável Bolsas de Praia"
-        },
-        {
-          "img": "/img/uploads/pecas-artesanais-artestore-banner.webp",
-          "alt": "Bolsas de Palha Artesanais Feitas à Mão",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "606ca1d933554a7d2d3cdbca:categories:Todos os Produtos:/todos-os-produtos",
@@ -50,6 +30,26 @@
       "sort": "lowest_price",
       "title": "Os Menores Preços",
       "link": ""
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-moda-qualidade-.webp",
+          "mobile_img": "",
+          "alt": "Moda Sustentável Bolsas de Praia"
+        },
+        {
+          "img": "/img/uploads/pecas-artesanais-artestore-banner.webp",
+          "alt": "Bolsas de Palha Artesanais Feitas à Mão",
+          "mobile_img": ""
+        }
+      ]
     },
     {
       "type": "responsive-banner",
