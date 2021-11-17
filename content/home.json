@@ -4,28 +4,13 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bolsas-palha-frete-gratis.bmp",
-      "mobile_img": "/img/uploads/bolsas-palha-frete-gratis-m.bmp",
+      "img": "/img/uploads/black-friday-artestore.webp",
+      "mobile_img": "/img/uploads/black-friday-artestore-m.webp",
       "link": "https://www.artestore.com.br/bolsas-com-frete-gratis"
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categoria-bolsas.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "mobile_img": "/img/uploads/categoria-bolsas-m.webp"
-        },
-        {
-          "img": "/img/uploads/categoria-clutches.webp",
-          "link": "https://www.artestore.com.br/clutches-e-carteiras/",
-          "mobile_img": "/img/uploads/categoria-clutches-m.webp"
-        }
-      ]
     },
     {
       "type": "dynamic-showcase",
