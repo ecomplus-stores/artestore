@@ -52,11 +52,6 @@
       "link": ""
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -70,6 +65,11 @@
           "mobile_img": ""
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
