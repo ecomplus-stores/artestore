@@ -113,24 +113,25 @@
   color: #333;
 }
 .product-card__offer-stamp, .minicart__btn-checkout.btn.btn-block.btn-primary, .cart__info .cart__btn-checkout.btn.btn-lg.btn-block.btn-success, .checkout__btn-proceed.btn.btn-success.mt-4, .payment__method .btn.btn-success.btn-lg.btn-block {
-  background: #89cab6;
-  border: #89cab6;
+  background: #908a4d;
+  border: #908a4d;
 }
 .header__nav a {
   margin-right: .7rem;
 }
 .product__discount {
-color: #89cab6;
+color: #908a4d;
 }
 .eapps-widget-toolbar + a {
   display: none !important;
 }
 :root {
-  --light: #faf2e4;
+  --light: #e0dad0;
   --danger: #696555;
-  --primary-lightest: #e3ebd5;
+  --primary-lightest: #c0bd9a;
   --primary-lightest-yiq: #696555;
-  --success: #3f6d5f;
+  --success: #777137;
+  --info: #908a4d;
 }
 .btn-danger {
     color: #fff;
@@ -138,7 +139,7 @@ color: #89cab6;
     border-color: #bcbfc0;
 }
 .product__short-stock {
-  background-color: #d7d5c4;
+  background-color: #d0784e;
 }
 @media(min-width: 767px) {
   .banners-grid > .container > .row > .col-12.mb-3.mb-lg-0 {
