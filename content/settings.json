@@ -1,7 +1,7 @@
 {
   "domain": "www.artestore.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#734c12",
+  "primary_color": "#d0784e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favcon-icone-artestore.png",
   "country_code": "BR",
-  "secondary_color": "#89cab6",
+  "secondary_color": "#908a4d",
   "icon": "/img/uploads/favcon-icone-artestore.png",
   "store_id": 1094,
   "description": "Bolsas de praia e acessórios feitos artesanalmente com materiais sustentáveis. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza, responsabilidade social e ambiental. ",
