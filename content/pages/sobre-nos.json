@@ -18,6 +18,10 @@
     },
     {
       "type": "custom-html",
+      "html": "​<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">O QUE DIZEM NOSSOS CLIENTES</a></h4>"
+    },
+    {
+      "type": "custom-html",
       "html": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/TodxxFRg8jI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
     }
   ]
