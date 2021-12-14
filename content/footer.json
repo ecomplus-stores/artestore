@@ -8,12 +8,16 @@
     "title": "Mais Informações",
     "list": [
       {
-        "text": "- Condições de Entrega",
-        "url": "https://www.artestore.com.br/pages/entrega"
+        "text": "- Sobre Nós",
+        "url": "https://www.artestore.com.br/pages/sobre-nos"
       },
       {
         "text": "- Formas de Pagamento",
         "url": "https://www.artestore.com.br/pages/pagamentos"
+      },
+      {
+        "text": "- Condições de Entrega",
+        "url": "https://www.artestore.com.br/pages/entrega"
       },
       {
         "text": "- Trocas e Devoluções",
@@ -22,10 +26,6 @@
       {
         "text": "- Política de Privacidade",
         "url": "https://www.artestore.com.br/pages/privacidade"
-      },
-      {
-        "text": "- Sobre Nós",
-        "url": "https://www.artestore.com.br/pages/sobre-nos"
       },
       {
         "text": "- Blog: Dicas de Moda e Sustentabilidade",
