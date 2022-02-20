@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$200,00",
+    "text": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$200",
     "link": "",
     "color": "#ffffff",
-    "background": "#779811"
+    "background": "#7da10e"
   },
   "contacts_stripe": {
     "pages": [
