@@ -42,36 +42,6 @@
       "limit": 5
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 21,
-      "page": 1,
-      "collection_id": "618ea0f10c7c7272257e927d:categories:Bolsas:/bolsas-de-praia/",
-      "sort": "lowest_price",
-      "title": "OS MENORES PREÇOS EM BOLSAS",
-      "link": "https://www.artestore.com.br/bolsas-de-praia/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 10,
-      "collection_id": "5fdd60e969274c73fceac57c:collections:Clutches e Carteiras de Mão:/clutches-e-carteiras-de-mao",
-      "sort": "sales",
-      "title": "OS MENORES PREÇOS EM CARTEIRAS",
-      "link": "https://www.artestore.com.br/clutches-e-carteiras/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/",
-      "sort": "lowest_price",
-      "title": "Os Menores Preços",
-      "link": ""
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/artestore-moda-sustentavel-banner.webp",
       "alt": "Artestore Moda Sustentável Peças Artesanais",
