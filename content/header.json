@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS nos pedidos acima de R$300",
+    "text": "Enviamos para todo Brasil",
     "link": "",
     "color": "#ffffff",
-    "background": "#d0784e"
+    "background": "#de9e8c"
   },
   "contacts_stripe": {
     "pages": [
