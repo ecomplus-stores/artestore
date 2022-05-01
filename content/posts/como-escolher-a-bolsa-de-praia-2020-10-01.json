@@ -8,13 +8,6 @@
   "meta_title": "Como escolher a melhor bolsa de praia?",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/bolsa-de-praia-como-escolher.webp",
-      "alt": "Como Escolher sua Bolsa de Praia",
-      "link": "https://www.artestore.com.br/bolsas-de-praia/",
-      "mobile_img": "/img/uploads/dicas-de-como-escolher-a-bolsa-de-praia.webp"
-    },
-    {
       "type": "blog-post",
       "enabled": true
     },
@@ -23,24 +16,9 @@
       "shuffle": true,
       "collection_id": "5ec1a401126b0d057213ac29:categories:Bolsas:/bolsas-de-praia/",
       "title": "Mais Vendidas",
-      "link": "https://www.artestore.com.br/bolsas-de-praia/",
+      "link": "",
       "limit": 12,
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categoria-bolsas.webp",
-          "alt": "Bolsas de Palha",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/"
-        },
-        {
-          "img": "/img/uploads/categoria-clutches.webp",
-          "alt": "Clutches e Carteiras",
-          "link": "https://www.artestore.com.br/clutches-e-carteiras/"
-        }
-      ]
     },
     {
       "type": "blog",
