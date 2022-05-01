@@ -8,49 +8,8 @@
   "thumbnail": "/img/uploads/banner-cores.webp",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/significado-das-cores.webp",
-      "link": "",
-      "mobile_img": "/img/uploads/significado-das-cores-m.webp",
-      "alt": "Psicologia e Significado das Cores"
-    },
-    {
       "type": "blog-post",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categoria-bolsas.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Confira nossas Bolsas em todas as cores",
-          "mobile_img": "/img/uploads/categoria-bolsas-m.webp"
-        },
-        {
-          "img": "/img/uploads/categoria-clutches.webp",
-          "alt": "Confira nossas Clutches em todas as cores",
-          "link": "https://www.artestore.com.br/clutches-e-carteiras/",
-          "mobile_img": "/img/uploads/categoria-clutches-m.webp"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categoria-chapeus.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
-          "alt": "Confira nossos Chapéus em todas as cores",
-          "mobile_img": "/img/uploads/categoria-chapeus-m.webp"
-        },
-        {
-          "img": "/img/uploads/categoria-acessorios.webp",
-          "alt": "Confira nossos Acessórios em todas as cores",
-          "link": "https://www.artestore.com.br/acessorios",
-          "mobile_img": "/img/uploads/categoriacessorios-m.webp"
-        }
-      ]
     },
     {
       "type": "blog",
