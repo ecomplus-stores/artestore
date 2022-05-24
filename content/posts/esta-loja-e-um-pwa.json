@@ -14,21 +14,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://m.media-amazon.com/images/G/01/ACI/ACI_Clothing_Shoes__Jewelry._SS300_SCLZZZZZZZ_.png",
-          "link": "https://www.amazon.com.br/s?i=fashion-womens&bbn=17365811011&rh=n%3A17365811011&dc=&qid=1653414960&linkCode=ll2&tag=artestore06-20&linkId=dcee7d090b9f7fdf8a964cc2800fdfd5&ref_=as_li_ss_tl",
-          "alt": "Ofertas em Moda"
-        },
-        {
-          "img": "https://m.media-amazon.com/images/G/32/br-consumables/2018/evergreen/proteja_pele/1152610_amazon_br_country_expansion_12_proteja_pele_evergreen_420x420_1544009497.jpg",
-          "alt": "Moda Praia",
-          "link": "https://www.amazon.com.br/b?node=17682130011&linkCode=ll2&tag=artestore06-20&linkId=59903dbfe3b259b07e9b6eb4cbfcca3e&ref_=as_li_ss_tl"
-        }
-      ]
     }
   ]
 }
