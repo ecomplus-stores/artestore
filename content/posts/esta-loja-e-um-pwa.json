@@ -13,11 +13,11 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">COMPRE AQUI OS LENÇOS MAIS LINDOS</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br/s?k=len%C3%A7o+echarpe&amp;i=fashion-womens&amp;rh=n%3A17365811011&amp;dc=&amp;__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;qid=1653422940&amp;linkCode=ll2&amp;tag=artestore06-20&amp;linkId=c84029009ca3c463ca3896d431793ca5&amp;ref_=as_li_ss_tl\">COMPRE AQUI OS LENÇOS MAIS LINDOS</a></h4>"
     },
     {
       "type": "custom-html",
-      "html": "<p><a\n href=\"https://www.amazon.com.br/s?k=len%C3%A7o+echarpe&amp;i=fashion-womens&amp;rh=n%3A17365811011&amp;dc=&amp;__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;qid=1653422940&amp;linkCode=ll2&amp;tag=artestore06-20&amp;linkId=c84029009ca3c463ca3896d431793ca5&amp;ref_=as_li_ss_tl\"><img\n style=\"border: 0px solid ;\" alt=\"\"\n src=\"https://www.artestore.com.br/img/uploads/lenco-bandana-echarpe-pashmina-como-usar-m.webp\"\n align=\"center\"></a></p>\n\n"
+      "html": "\n<p><a href=\"https://www.amazon.com.br/s?k=len%C3%A7o+echarpe&amp;i=fashion-womens&amp;rh=n%3A17365811011&amp;dc=&amp;__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;qid=1653422940&amp;linkCode=ll2&amp;tag=artestore06-20&amp;linkId=c84029009ca3c463ca3896d431793ca5&amp;ref_=as_li_ss_tl\" target=\"_blank\"><img alt=\"\" src=https://www.artestore.com.br/img/uploads/lenco-bandana-echarpe-pashmina-como-usar-m.webp style=\"float: center;\"  hspace=\"20\" vspace=\"20\"/></a></p>\n\n"
     },
     {
       "type": "blog",
