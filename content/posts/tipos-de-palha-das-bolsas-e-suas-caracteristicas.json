@@ -106,8 +106,12 @@
       "sort": "sales",
       "title": "Clique AQUI para ver Todas as Bolsas de Fibras Naturais",
       "link": "https://www.artestore.com.br/fibras-naturais"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">PRODUTOS EM PALHA PARA DECORAÇÃO</a></h4>"
     }
   ],
-  "title": "Tipos de Palha das Bolsas e suas Características",
+  "title": "Tipos de Palha e suas Características",
   "description": "Aqui você vai encontrar os principais tipos de palha utilizados na confecção de bolsas e acessórios. Sua origem, tipo de vegetação e onde é encontrada.\nAlém de outras características que são únicas em cada palha encontrada no Brasil."
 }
