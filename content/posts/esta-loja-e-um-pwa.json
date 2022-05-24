@@ -12,6 +12,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<a target=\"_blank\" href=\"https://www.amazon.com.br/b/ref=s9_acss_bw_cg_grid_3b1_w?node=21076219011&pf_rd_m=A3RN7G7QC5MWSZ&pf_rd_s=merchandised-search-1&pf_rd_r=HXGCRYY889S6YGKTAX02&pf_rd_t=101&pf_rd_p=da3d8330-9809-4684-aa2b-e60555f1c39b&pf_rd_i=20967360011&_encoding=UTF8&linkCode=ib1&tag=artestore06-20&linkId=07e9b6d5b47e9e6b8ef332260db74b30&ref_=ihub_curatedcontent_f3c59d6d-9912-498c-9b3b-7d153a72e557\">Outlet em Moda</a>"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
