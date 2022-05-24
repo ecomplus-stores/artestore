@@ -54,7 +54,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">O QUE DIZEM NOSSOS CLIENTES</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"\">O QUE DIZEM NOSSOS CLIENTES</a></h4>"
     },
     {
       "type": "custom-html",
