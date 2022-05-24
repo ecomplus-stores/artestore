@@ -62,7 +62,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">NOSSO COMPROMISSO</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"\">NOSSO COMPROMISSO</a></h4>"
     },
     {
       "type": "banners-grid",
