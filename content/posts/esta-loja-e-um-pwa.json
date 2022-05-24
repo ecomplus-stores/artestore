@@ -12,12 +12,22 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<a target=\"_blank\" href=\"https://www.amazon.com.br/b/ref=s9_acss_bw_cg_grid_3b1_w?node=21076219011&pf_rd_m=A3RN7G7QC5MWSZ&pf_rd_s=merchandised-search-1&pf_rd_r=HXGCRYY889S6YGKTAX02&pf_rd_t=101&pf_rd_p=da3d8330-9809-4684-aa2b-e60555f1c39b&pf_rd_i=20967360011&_encoding=UTF8&linkCode=ib1&tag=artestore06-20&linkId=07e9b6d5b47e9e6b8ef332260db74b30&ref_=ihub_curatedcontent_f3c59d6d-9912-498c-9b3b-7d153a72e557\">Outlet em Moda</a>"
-    },
-    {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "https://m.media-amazon.com/images/G/01/ACI/ACI_Clothing_Shoes__Jewelry._SS300_SCLZZZZZZZ_.png",
+          "link": "https://www.amazon.com.br/s?i=fashion-womens&bbn=17365811011&rh=n%3A17365811011&dc=&qid=1653414960&linkCode=ll2&tag=artestore06-20&linkId=dcee7d090b9f7fdf8a964cc2800fdfd5&ref_=as_li_ss_tl"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/G/32/br-consumables/2018/evergreen/proteja_pele/1152610_amazon_br_country_expansion_12_proteja_pele_evergreen_420x420_1544009497.jpg",
+          "alt": "Moda Praia",
+          "link": "https://www.amazon.com.br/b?node=17682130011&linkCode=ll2&tag=artestore06-20&linkId=59903dbfe3b259b07e9b6eb4cbfcca3e&ref_=as_li_ss_tl"
+        }
+      ]
     }
   ]
 }
