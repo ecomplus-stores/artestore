@@ -1,14 +1,16 @@
 {
-  "title": "Dicas Arte e Artesanato",
-  "meta_title": "Blog Artestore - Dicas Arte e Artesanato",
-  "meta_description": "Tudo sobre o mundo as artes. Muitas dicas também de artesanato. Pintura, escultura, macramê, crochê, trançados. Decoração e Moda.",
+  "title": "Dicas e Aulas de Arte e Artesanato",
+  "meta_title": "Blog Artestore - Dicas e Aulas de Arte e Artesanato",
+  "meta_description": "Tudo sobre o mundo as artes. Muitas dicas e também aulas de arte e de artesanato. Pintura, escultura, macramê, crochê, trançados. Decoração e Moda.",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Blog Artestore - Dicas e Aulas de Arte e Artesanato",
+      "description": "Tudo sobre o mundo as artes. Muitas dicas e também aulas de arte e de artesanato. Pintura, escultura, macramê, crochê, trançados. Decoração e Moda."
     },
     {
       "type": "blog",
@@ -16,7 +18,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">O QUE DIZEM NOSSOS CLIENTES</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a>O QUE DIZEM NOSSOS CLIENTES</a></h4>"
     },
     {
       "type": "custom-html",
