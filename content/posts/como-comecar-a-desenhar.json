@@ -5,11 +5,6 @@
   "description": "Dicas simples de como começar a desenhar do zero, sem nenhum conhecimento prévio. Exercícios para iniciantes.",
   "meta_title": "Dicas de como começar a desenhar do zero, sem nenhum conhecimento prévio.",
   "meta_description": "Dicas de como começar a desenhar do zero, sem nenhum conhecimento prévio. Sou professora de Artes e vou compartilhar com vocês dicas simples de como começar a desenhar, desde o primeiro passo.",
-  "sections": [
-    {
-      "type": "custom-html",
-      "html": "<a target=\"_blank\" href=\"https://www.amazon.com.br/gp/bestsellers/office?_encoding=UTF8&linkCode=ib1&tag=artestore06-20&linkId=531e10288547caae1fa59b89ef7e3a3b&ref_=ihub_curatedcontent_431a9027-d673-44f4-a111-3805acca89b3\">Tendências em Papelaria e Escritório</a>"
-    }
-  ],
+  "sections": [],
   "thumbnail": "/img/uploads/como-comecar-a-desenhar.png"
 }
