@@ -96,6 +96,10 @@
           "alt": "Artestore - Marca Registrada"
         }
       ]
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
