@@ -24,7 +24,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br/gp/browse.html?node=17095636011&linkCode=ll2&tag=artestore06-20&linkId=be42e42accb0ca5e6442f72134594e87&language=pt_BR&ref_=as_li_ss_tl\">CONFIRA AS PROMOÇÕES DA NOSSA PARCEIRA AMAZON</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br?&linkCode=ll2&tag=artestore06-20&linkId=c61805a01a8074b913252ed0c49d3087&language=pt_BR&ref_=as_li_ss_tl\">CONFIRA AS PROMOÇÕES DA NOSSA PARCEIRA AMAZON</a></h4>"
     },
     {
       "type": "banners-grid",
