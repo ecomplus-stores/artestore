@@ -102,13 +102,13 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br/prime?aaxitk=919ddade60f88965c641b67aaa68ecc7&linkCode=ll2&tag=artestore06-20&linkId=16f28d65fe1930ca629e3272f0f77102&language=pt_BR&ref_=as_li_ss_tl\">CONFIRA AS PROMOÇÕES DA NOSSA PARCEIRA AMAZON</a></h4>"
+    },
+    {
       "type": "responsive-banner",
       "img": "https://m.media-amazon.com/images/G/32/shazam/01222433-UAT-BR-CSN-1940-500-6Rooq._V403303706_.jpg",
       "link": "https://www.amazon.com.br/prime?aaxitk=919ddade60f88965c641b67aaa68ecc7&linkCode=ll2&tag=artestore06-20&linkId=16f28d65fe1930ca629e3272f0f77102&language=pt_BR&ref_=as_li_ss_tl"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br/prime?aaxitk=919ddade60f88965c641b67aaa68ecc7&linkCode=ll2&tag=artestore06-20&linkId=16f28d65fe1930ca629e3272f0f77102&language=pt_BR&ref_=as_li_ss_tl\">CONFIRA AS PROMOÇÕES DA NOSSA PARCEIRA AMAZON</a></h4>"
     }
   ]
 }
