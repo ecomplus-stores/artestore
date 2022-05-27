@@ -21,6 +21,32 @@
     {
       "type": "custom-content",
       "markdown": "<br>\n<hr style=\"width: 100%; height: 2px;\">\n<br>\n\n## AULA 6: Luz e Sombra\n\n**Luz:** claridade, sombras (própria e projetada), claro-escuro; orientação: a direção de uma forma relativamente ao plano do solo, aos pontos cardeais para estudo da sombra.\n\nExistem maneiras de ver a luz e de ver a sombra, e elas dependem do local e também da posição de cada objeto. É necessário treinar o olhar para perceber de onde vem a luz e como ela reflete nos objetos ou nas paisagens.\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"384\" src=\"http://3.bp.blogspot.com/-F_Uzc_mfyZA/TgYcHmFbBQI/AAAAAAAAACA/P_gpsgXthVw/s16\" width=\"512\" /></p>\n\nAs sombras podem ser representadas por vários tons de cinza.\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"\" src=\"https://www.artestore.com.br/img/uploads/tons-de-cinza.png\" width=\"\" /></p>\n\nNote como uma pequena adição de luz ao desenho já torna um simples círculo numa esfera dando a ideia de tridimensionalidade.\n\n<p style=\"text-align:center\"><img alt=\"\" height=\"\" src=\"https://www.artestore.com.br/img/uploads/circulo-esfera.png\" width=\"\" /></p>\n\nDeve-se ter em consideração os reflexos produzidos pela luz, que projetam as superfícies ou objetos vizinhos, já que estes aclaram a sombra própria. Além disso, o papel das sombras e da luz no desenho não se restringe à representação do volume, para o qual eles são fundamentais. Contrastes entre claro e escuro, luz e sombra e os jogos de iluminação e penumbra conferem\ndinâmica às composições e podem ser usados como estratégias para destacar pontos, objetos ou personagens, e também para criar diferentes climas na cena retratada.\n\n**Exercício:**\n\n* Faça você mesmo sua escala de cinza, comece pelo mais escuro que conseguir fazer com seu lápis e depois nos demais quadrados vá diminuindo a pressão colocada sobre o lápis, você vai notar que conseguirá dominar a pressão que colocará no lápis para obter o tom de cinza desejado quando for usar em seus desenhos.\n* Pesquise mais sobre luz e sombra, uma boa fonte de observação de luz e sombra é em fotos, faça uma pesquisa em sites de imagens com os termos \"luz e sombra\" e se delicie com as imagens que irá admirar e com isso também treinará seu olhar para identificar de onde a luz vem e onde é projetada em cada cena.\n\nAbaixo alguns exemplos de fotos com esse conceito bem trabalhado:\n\n<table\n style=\"text-align: left; margin-left: auto; margin-right: auto;\"\n border=\"0\" cellpadding=\"2\" cellspacing=\"2\">\n  <tbody>\n    <tr>\n      <td style=\"text-align: center;\"><img\n style=\"width: 300px; height: 300px;\" alt=\"\"\n src=\"https://www.artestore.com.br/img/uploads/foto-luz-sombra-1.png\"></td>\n      <td style=\"text-align: center;\"><img\n style=\"width: 300px; height: 300px;\" alt=\"\"\n src=\"https://www.artestore.com.br/img/uploads/foto-luz-sombra-2.png\"></td>\n    </tr>\n  </tbody>\n</table>\n\n\n\n<table\n style=\"text-align: left; margin-left: auto; margin-right: auto;\"\n border=\"0\" cellpadding=\"2\" cellspacing=\"2\">\n  <tbody>\n    <tr>\n      <td style=\"text-align: center;\"><img\n style=\"width: 300px; height: 300px;\" alt=\"\"\n src=\"https://www.artestore.com.br/img/uploads/foto-luz-sombra-3.png\"></td>\n      <td style=\"text-align: center;\"><img\n style=\"width: 300px; height: 300px;\" alt=\"\"\n src=\"https://www.artestore.com.br/img/uploads/foto-luz-sombra-4.png\"></td>\n    </tr>\n  </tbody>\n</table>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "https://m.media-amazon.com/images/G/01/ACI/ACI_OfficeSupplies._SS300_SCLZZZZZZZ_.png",
+          "link": "https://www.amazon.com.br/gp/bestsellers/office/17095636011?&linkCode=ll2&tag=artestore06-20&linkId=c4aa7282142f049075499e60cf20bb07&language=pt_BR&ref_=as_li_ss_tl",
+          "alt": "Material de Papelaria"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/G/32/BR-hq/2021/img/Consumer_Electronics/Associates/XCM_CUTTLE_ORIGIN_1329980_1696714_BR_3844748_1200x1200_pt_BR.png",
+          "link": "https://www.amazon.com.br/b?ie=UTF8&node=17100531011&_encoding=UTF8&linkCode=ib1&tag=artestore06-20&linkId=e45c2516338250da26c3bf4ae98ae482&ref_=ihub_curatedcontent_55a4b34e-dcfe-45f6-b9cf-5f09daddc882",
+          "alt": "Decoração"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/G/32/kindle/email.2021w06/Associates/1200x1200_P-Vendidos.jpg",
+          "link": "https://www.amazon.com.br/gp/bestsellers/books?_encoding=UTF8&linkCode=ll2&tag=artestore06-20&linkId=60f6b2b0b7951605e5c248042b171fcb&language=pt_BR&ref_=as_li_ss_tl",
+          "alt": "Livros mais Vendidos"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/G/01/ACI/ACI_Beauty__Personal_Care._SS300_SCLZZZZZZZ_.png",
+          "mobile_img": "",
+          "link": "https://www.amazon.com.br/gp/bestsellers/beauty?_encoding=UTF8&linkCode=ib1&tag=artestore06-20&linkId=74d4dd0541e7a6d04e23966b4274e2bb&ref_=ihub_curatedcontent_24dfc907-d55b-44c4-9a3d-93aa50864a34",
+          "alt": "Tendências de Beleza"
+        }
+      ]
     }
   ],
   "thumbnail": "/img/uploads/como-comecar-a-desenhar.png"
