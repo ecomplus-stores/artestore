@@ -98,6 +98,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">CONFIRA NOSSO CONTEÚDO</a></h4>"
+    },
+    {
       "type": "blog",
       "enabled": true
     },
