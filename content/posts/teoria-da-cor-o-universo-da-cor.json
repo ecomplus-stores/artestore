@@ -5,5 +5,15 @@
   "thumbnail": "/img/uploads/paleta-de-cores.webp",
   "description": "A cor pode transformar, animar e modificar um ambiente. Todos nós reagimos à cor, e atualmente, é possível levá-la a todas as áreas da vida pelo uso de materias, tecidos e tintas. O uso de uma ou várias cores no ambiente pode alterar a comunicação, as atitudes e a aparência das pessoas presentes; a cor pode acalmar, reduzir o estresse e a violência ou aumentar a vitalidade e a energia.",
   "meta_description": "A cor pode transformar, animar e modificar um ambiente. Todos nós reagimos à cor, e atualmente, é possível levá-la a todas as áreas da vida pelo uso de materias, tecidos e tintas. O uso de uma ou várias cores no ambiente pode alterar a comunicação, as atitudes e a aparência das pessoas presentes; a cor pode acalmar, reduzir o estresse e a violência ou aumentar a vitalidade e a energia.",
-  "meta_title": "Teoria da Cor: O universo da cor"
+  "meta_title": "Teoria da Cor: O universo da cor",
+  "sections": [
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
