@@ -73,11 +73,6 @@
           "link": ""
         },
         {
-          "img": "/img/uploads/reproveitamento.png",
-          "alt": "Artestore - Reaproveitamento",
-          "link": ""
-        },
-        {
           "img": "/img/uploads/preco-justo.png",
           "alt": "Artestore - Preço Justo",
           "link": ""
@@ -90,10 +85,6 @@
         {
           "img": "/img/uploads/selo-artestore-qualidade.png",
           "alt": "Artestore - garantia de qualidade"
-        },
-        {
-          "img": "/img/uploads/marca-registrada.png",
-          "alt": "Artestore - Marca Registrada"
         }
       ]
     },
