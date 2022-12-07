@@ -8,6 +8,10 @@
   "thumbnail": "/img/uploads/produtos-sustentaveis.webp",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "blog",
       "enabled": true
     }
