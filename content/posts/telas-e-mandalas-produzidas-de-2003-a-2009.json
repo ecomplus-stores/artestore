@@ -13,6 +13,23 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/mandala-56-cm-yin-yang.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-25.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-azul-craquele-2.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-25.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/mandala-79-marrom-a.jpg",
           "alt": "Trio de Mandalas"
         },
@@ -32,6 +49,23 @@
     {
       "type": "custom-content",
       "markdown": "A﻿s telas em sua maioria são compostas de duos ou trios de quadros, a ideia é ter opções de colocações em diferentes paredes, além do que elas preenchem espaços de forma mais harmônica que uma única peça. Já que no caso de uma única peça o cuidado com a harmonização com o restante do ambiente tem que ser maior. Já no caso dos duetos e trios, eles por si só já compõe um cenário, ficando mais livre de ter que compor obrigatoriamente com o restante da decoração.\n\nA﻿s técnicas usadas são acrílico sobre tela com texturização em algumas peças.\n\n\n\n\"A arte diz o indizível; exprime o inexprimível, traduz o intraduzível.\"\n*Leonardo da Vinci*"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/abstrato-duplo-marrom-a.jpg"
+        },
+        {
+          "img": "/img/uploads/trio-yellow.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-azul.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-metalizado.jpg"
+        }
+      ]
     },
     {
       "type": "banners-grid",
