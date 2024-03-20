@@ -97,6 +97,38 @@
     {
       "type": "custom-content",
       "markdown": "A﻿s telas em sua maioria são compostas de duos ou trios de quadros, a ideia é ter opções de colocações em diferentes paredes, além do que elas preenchem espaços de forma mais harmônica que uma única peça. Já que no caso de uma única peça o cuidado com a harmonização com o restante do ambiente tem que ser maior. Já no caso dos duetos e trios, eles por si só já compõe um cenário, ficando mais livre de ter que compor obrigatoriamente com o restante da decoração.\n\nA﻿s técnicas usadas são acrílico sobre tela com texturização em algumas peças."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/abstrato-duplo-marrom-a.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/duo-azul.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/duo-indi.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/dueto-vert-verm-verde.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/trio-yellow.jpg"
+        }
+      ]
     }
   ],
   "description": "Trabalhos realizados de 2003 a 2009, todas telas e mandalas foram vendidas.\nNovos modelos em breve... um novo recomeço de dedicação à arte!\n\nComo dizia o gênio Van Gogh: \"Eu quero a luz que vem de dentro, quero as cores representando emoções.\"",
