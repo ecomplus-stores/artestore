@@ -5,19 +5,28 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/amb-claras-2a.jpg",
+          "img": "/img/uploads/mandala-79-marrom-a.jpg",
           "alt": "Trio de Mandalas"
         },
         {
-          "img": "/img/uploads/amb-tela-20x60-mandalas-2.jpg",
+          "img": "/img/uploads/mandala-estrela-dourada-nov.jpg",
           "alt": "Dueto de Quadros"
         },
         {
-          "img": "/img/uploads/mandala-56-cm-yin-yang.jpg",
+          "img": "/img/uploads/mandala-yin-yang.jpg",
           "alt": "Mandala Yin Yang"
         },
         {
-          "img": "/img/uploads/mandala-amarelo-veneza-pedr.jpg"
+          "img": "/img/uploads/mandala-craquele-yin-yang.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-craque.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-amarela-ouro.jpg"
+        },
+        {
+          "img": "/img/uploads/mandala-25.jpg"
         }
       ]
     }
@@ -25,6 +34,6 @@
   "description": "Trabalhos realizados de 2003 a 2009, todas telas e mandalas foram vendidas.\nNovos modelos em breve... um novo recomeço de dedicação à arte!\n\nComo dizia o gênio Van Gogh: \"Eu quero a luz que vem de dentro, quero as cores representando emoções.\"",
   "body": "\"A arte diz o indizível; exprime o inexprimível, traduz o intraduzível.\"\n*Leonardo da Vinci*",
   "title": "Telas e Mandalas produzidas de 2003 a 2009",
-  "meta_title": "Alguns Trabalhos em Telas e Mandalas",
-  "meta_description": "Bolsa Sling Canguru Para Cães Pet Transporte Mochila"
+  "meta_title": "Alguns Trabalhos em Mandalas",
+  "meta_description": ""
 }
