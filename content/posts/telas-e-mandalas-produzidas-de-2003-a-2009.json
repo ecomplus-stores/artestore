@@ -97,38 +97,6 @@
           "img": "/img/uploads/abstrato-duplo-marrom-a.jpg"
         }
       ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/abstrato-duplo-marrom-a.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/duo-azul.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/duo-indi.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/dueto-vert-verm-verde.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/trio-yellow.jpg"
-        }
-      ]
     }
   ],
   "description": "Trabalhos realizados de 2003 a 2009, todas telas e mandalas foram vendidas.\nNovos modelos em breve... um novo recomeço de dedicação à arte!\n\nComo dizia o gênio Van Gogh: \"Eu quero a luz que vem de dentro, quero as cores representando emoções.\"",
