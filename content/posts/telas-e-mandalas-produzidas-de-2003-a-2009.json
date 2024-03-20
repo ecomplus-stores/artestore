@@ -2,6 +2,10 @@
   "date": "2024-03-08T12:26:18.895Z",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "custom-content",
       "markdown": "Esses são alguns dos modelos de mandalas produzidos pela Artestore, em sua maior parte a técnica usada foi acrílica sobre tela, com uso de texturas e algumas outras técnicas de efeito, como por exemplo os craquelados, assim como em alguns casos o uso de ilustração na composição da peça."
     },
@@ -48,11 +52,56 @@
           "img": "/img/uploads/mandala-verde-petroleo-citr.jpg"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/duo-indi.jpg"
+        },
+        {
+          "img": "/img/uploads/56465-d.jpg"
+        },
+        {
+          "img": "/img/uploads/dueto-9902b.jpg"
+        },
+        {
+          "img": "/img/uploads/dueto-vert-verm-verde.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-azul.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-metalizado.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-areia.jpg"
+        },
+        {
+          "img": "/img/uploads/tela10.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-novo-amar-2a.jpg"
+        },
+        {
+          "img": "/img/uploads/bord-amar-v.jpg"
+        },
+        {
+          "img": "/img/uploads/duo-20-60-3-v.jpg"
+        },
+        {
+          "img": "/img/uploads/abstrato-duplo-marrom-a.jpg"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "A﻿s telas em sua maioria são compostas de duos ou trios de quadros, a ideia é ter opções de colocações em diferentes paredes, além do que elas preenchem espaços de forma mais harmônica que uma única peça. Já que no caso de uma única peça o cuidado com a harmonização com o restante do ambiente tem que ser maior. Já no caso dos duetos e trios, eles por si só já compõe um cenário, ficando mais livre de ter que compor obrigatoriamente com o restante da decoração.\n\nA﻿s técnicas usadas são acrílico sobre tela com texturização em algumas peças."
     }
   ],
   "description": "Trabalhos realizados de 2003 a 2009, todas telas e mandalas foram vendidas.\nNovos modelos em breve... um novo recomeço de dedicação à arte!\n\nComo dizia o gênio Van Gogh: \"Eu quero a luz que vem de dentro, quero as cores representando emoções.\"",
-  "body": "\"A arte diz o indizível; exprime o inexprimível, traduz o intraduzível.\"\n*Leonardo da Vinci*",
-  "title": "Telas e Mandalas produzidas de 2003 a 2009",
-  "meta_title": "Alguns Trabalhos em Mandalas",
-  "meta_description": "E﻿sses são alguns dos modelos de mandalas produzidos pela Artestore, em sua maior parte a técnica usada foi acrílica sobre tela, com uso de texturas e algumas outras técnicas de efeito, como por exemplo os craquelados, assim como em alguns casos o uso de ilustração na composição da peça."
+  "body": "Trabalhos realizados de 2003 a 2009, todas telas e mandalas foram vendidas.\nNovos modelos em breve... um novo recomeço de dedicação à arte!\n\nComo dizia o gênio Van Gogh: \"Eu quero a luz que vem de dentro, quero as cores representando emoções.\"\n\n\"A arte diz o indizível; exprime o inexprimível, traduz o intraduzível.\"\n*Leonardo da Vinci*",
+  "title": "Telas e Mandalas produzidas de 2003 a 2011",
+  "meta_title": "Alguns Trabalhos em Mandalase Telas",
+  "meta_description": "E﻿sses são alguns dos modelos de mandalas e telas produzidas pela Artestore, em sua maior parte a técnica usada foi acrílica sobre tela, com uso de texturas e algumas outras técnicas de efeito, como por exemplo os craquelados, assim como em alguns casos o uso de ilustração na composição da peça."
 }
