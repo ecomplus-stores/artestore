@@ -6,12 +6,7 @@
     "background": "#de9e8c"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Blog",
-        "link": ""
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
