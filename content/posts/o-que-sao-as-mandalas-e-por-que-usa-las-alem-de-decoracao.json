@@ -5,5 +5,15 @@
   "description": "A mandala tem sua função decorativa, claro, são muito bonitas nas paredes em diversos estilos de decoração, mas elas também têm seus significados místicos, só o fato de ser redonda isso já traz muito significado, não por acaso nosso planeta também é. Veja mais informações nesse post.",
   "meta_description": "A mandala tem sua função decorativa, claro, são muito bonitas nas paredes em diversos estilos de decoração, mas elas também têm seus significados místicos, só o fato de ser redonda isso já traz muito significado, não por acaso nosso planeta também é. Veja mais informações nesse post.",
   "meta_title": "O que são as mandalas e por que usá-las além de decoração",
-  "thumbnail": "/img/uploads/o-que-sao-mandalas-circulo-significado.webp"
+  "thumbnail": "/img/uploads/o-que-sao-mandalas-circulo-significado.webp",
+  "sections": [
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
