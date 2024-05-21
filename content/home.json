@@ -3,12 +3,6 @@
   "meta_description": "Peças de arte e artesanato produzidas por artistas brasileiros com diversas técnicas, materiais e utilidades.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/estudo-e-teoria-da-cor.webp",
-      "mobile_img": "",
-      "link": ""
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
