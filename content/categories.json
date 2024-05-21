@@ -35,6 +35,12 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/como-escolher-a-bolsa-de-palha.webp",
+      "mobile_img": "/img/uploads/dicas-de-como-escolher-a-bolsa-de-praia.webp",
+      "link": "https://www.artestore.com.br/posts/como-escolher-a-bolsa-de-praia-2020-10-01"
     }
   ]
 }
