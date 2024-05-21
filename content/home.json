@@ -9,6 +9,23 @@
       "link": ""
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/post-instagram-dia-do-desenhista-com-foto-de-aquarela.webp"
+        },
+        {
+          "img": "/img/uploads/aula-de-pintura-gratis.webp"
+        },
+        {
+          "img": "/img/uploads/aula-de-desenho-gratis.webp"
+        },
+        {
+          "img": "/img/uploads/sobre-os-mestres-da-pintura.webp"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
