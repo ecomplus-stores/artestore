@@ -4,24 +4,24 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-atelie-artestore.webp",
-      "mobile_img": "/img/uploads/banner-atelie-artestore-m.webp",
+      "img": "/img/uploads/estudo-e-teoria-da-cor.webp",
+      "mobile_img": "",
       "link": ""
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/post-instagram-dia-do-desenhista-com-foto-de-aquarela.webp"
+          "img": "/img/uploads/estudo-e-teoria-da-cor.webp"
         },
         {
-          "img": "/img/uploads/aula-de-pintura-gratis.webp"
+          "img": "/img/uploads/pintura-aulas-gratis.webp"
         },
         {
-          "img": "/img/uploads/aula-de-desenho-gratis.webp"
+          "img": "/img/uploads/desenho-aulas-gratis.webp"
         },
         {
-          "img": "/img/uploads/sobre-os-mestres-da-pintura.webp"
+          "img": "/img/uploads/grandes-mestres-da-pintura-arte.webp"
         }
       ]
     },
