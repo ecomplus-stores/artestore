@@ -70,17 +70,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
-    {
-      "src": "/img/uploads/artestore-empresa-associada-abcomm.png",
-      "alt": "Empresa Associada ABCOMM",
-      "link": "http://abcomm.org/certificado.php?url= artestore.com.br"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": false,
