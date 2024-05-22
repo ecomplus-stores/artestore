@@ -30,19 +30,11 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">CONFIRA NOSSO CONTEÚDO</a></h4>"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "​<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">COMO ESCOLHER A BOLSA DE PRAIA</a></h4>"
+      "html": "​<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/posts/como-escolher-a-bolsa-de-praia-2020-10-01\">COMO ESCOLHER A BOLSA DE PRAIA CLIQUE AQUI</a></h4> "
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/como-escolher-a-bolsa-de-palha.webp",
+      "img": "https://www.artestore.com.br/img/uploads/bolsa-de-praia-como-escolher.webp",
       "mobile_img": "/img/uploads/dicas-de-como-escolher-a-bolsa-de-praia.webp",
       "link": "https://www.artestore.com.br/posts/como-escolher-a-bolsa-de-praia-2020-10-01"
     },
