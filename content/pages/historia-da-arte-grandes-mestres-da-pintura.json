@@ -6,7 +6,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "--> <h2 class=\"ff-ko fz-20 color-2c uk-margin-large-top uk-margin-small-bottom\">Sobre</h2>\n                <ul>\n                  <li class=\"ff-ko fz-14 color-6 uk-margin-small-top\">\n                    <a href=\"https://www.artestore.com.br/posts/kandinsky-pai-da-arte-abstrata\">Kandinsky</a>\n                  </li>\n                  <li class=\"ff-ko fz-14 color-6 uk-margin-small-top\">\n                    <a href=\"https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista\">Monet</a>\n                  \n                  </li>\n                </ul> -->"
+      "html": "<div class=\"col-12 col-sm-50 col-lg col-xl-auto px-xl-4\"><a class=\"footer__title\" data-toggle=\"collapse\" href=\"#footer-marcas\" role=\"button\" aria-expanded=\"true\" aria-controls=\"footer-marcas\">Mestres da Pintura</a>\n<div class=\"collapse show\" id=\"footer-categories\" style=\"\"><ul class=\"footer__links\"><li><i class=\"i-chevron-right\"></i> \n<a href=\"https://www.artestore.com.br/posts/vincent-van-gogh-um-classico-da-arte-moderna/\">Van Gogh</a>\n</li>\n<li><i class=\"i-chevron-right\"></i>\n <a href=\"https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista\">Monet</a></li>\n<li><i class=\"i-chevron-right\"></i>\n <a href=\"https://www.artestore.com.br/posts/kandinsky-pai-da-arte-abstrata/\">Kandinsky</a>\n</li><li><i class=\"i-chevron-right\"></i>\n</li></ul></div></div>\n"
     }
   ]
 }
