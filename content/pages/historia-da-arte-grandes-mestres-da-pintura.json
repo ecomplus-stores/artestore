@@ -1,12 +1,12 @@
 {
   "title": "História da Arte: Grandes Mestres da Pintura",
-  "body": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.\n\nN﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.\n\n<p><img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/sobre-os-mestres-da-pintura.webp\" style=\"float:lef; height:px; margin:10px; widtht:350px</p> <br>",
+  "body": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.\n\nN﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.\n\n<p><img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/sobre-os-mestres-da-pintura.webp\" style=\"float:lef; height:350px; margin:10px; widtht:350px;</p>",
   "meta_title": "História da Arte: Grandes Mestres da Pintura",
   "meta_description": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.  N﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<div class=\"col-12 col-sm-50 col-lg col-xl-auto px-xl-4\"><a class=\"footer__title\" data-toggle=\"collapse\" href=\"#footer-marcas\" role=\"button\" aria-expanded=\"true\" aria-controls=\"footer-marcas\">Mestres da Pintura</a>\n<div class=\"collapse show\" id=\"footer-categories\" style=\"\"><ul class=\"footer__links\"><li><i class=\"i-chevron-right\"></i> \n<a href=\"https://www.artestore.com.br/posts/vincent-van-gogh-um-classico-da-arte-moderna/\">Van Gogh</a>\n</li>\n<li><i class=\"i-chevron-right\"></i>\n <a href=\"https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista\">Monet</a></li>\n<li><i class=\"i-chevron-right\"></i>\n <a href=\"https://www.artestore.com.br/posts/kandinsky-pai-da-arte-abstrata/\">Kandinsky</a>\n</li><li><i class=\"i-chevron-right\"></i>\n</li></ul></div></div>\n"
+      "type": "custom-content",
+      "markdown": "* #### ***[V﻿an Gogh](https://www.artestore.com.br/posts/vincent-van-gogh-um-classico-da-arte-moderna)***\n* #### ﻿***M﻿onet﻿﻿J***\n*\n*"
     }
   ]
 }
