@@ -10,14 +10,15 @@
         },
         {
           "img": "/img/uploads/pintura-aulas-gratis.webp",
-          "link": "https://www.artestore.com.br/arte-pintura-desenho-teoria-estudo-cor"
+          "link": "https://www.artestore.com.br/pages/pintura-e-estudo-da-cor"
         },
         {
           "img": "/img/uploads/desenho-aulas-gratis.webp",
           "link": "https://www.artestore.com.br/posts/como-comecar-a-desenhar"
         },
         {
-          "img": "/img/uploads/grandes-mestres-da-pintura-arte.webp"
+          "img": "/img/uploads/grandes-mestres-da-pintura-arte.webp",
+          "link": "https://www.artestore.com.br/pages/historia-da-arte-grandes-mestres-da-pintura"
         }
       ]
     },
