@@ -26,27 +26,19 @@
     "title": "ARTE",
     "list": [
       {
-        "text": "Bolsas de Praia",
-        "url": "https://www.artestore.com.br/bolsas-de-praia/"
-      },
-      {
         "text": "Mestres da Pintura",
         "url": "https://www.artestore.com.br/pages/historia-da-arte-grandes-mestres-da-pintura"
       },
       {
-        "text": "Pintura e Estudo da Cor",
+        "text": "Pintura",
         "url": "https://www.artestore.com.br/pages/pintura-e-estudo-da-cor"
       },
       {
-        "text": "Estudo da Cor e Pintura",
+        "text": "Estudo da Cor",
         "url": ""
       },
       {
-        "text": "Atacado e Kits",
-        "url": "https://www.artestore.com.br/kits"
-      },
-      {
-        "text": "Todos os Produtos",
+        "text": "Loja Online",
         "url": "https://www.artestore.com.br/todos-os-produtos"
       }
     ]
