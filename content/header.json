@@ -6,9 +6,14 @@
     "background": "#de9e8c"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Mestres da Pintura",
+        "link": "https://www.artestore.com.br/pages/historia-da-arte-grandes-mestres-da-pintura"
+      }
+    ],
     "phone_wpp": false,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [
