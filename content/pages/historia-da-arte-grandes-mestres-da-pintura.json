@@ -1,6 +1,6 @@
 {
   "title": "História da Arte: Grandes Mestres da Pintura",
-  "body": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.\n\nN﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.\n\n<p><img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/sobre-os-mestres-da-pintura.webp\" style=\"float:lef; height:350px; margin:10px; widtht:350px;</p>\n\nF﻿alarei brevemente da vida de cada um deles e indicarei livros para complementar os estudos e para conhecer melhor a vida desses gênios.\n\nH﻿istória da Arte pode ser considerado por alguns um assunto meio chato e por vezes massante, mas saber um pouquinho da vida deles e como foi que se tornaram os grandes nomes da pintura mundial, é sempre bom e agrega cultura à nossa vida e se formos viajar então, nossa... tudo fará muito mais sentido.\n\nD﻿esejo a todos uma excelente leitura.",
+  "body": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.\n\nN﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.\n\n<p><img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/sobre-os-mestres-da-pintura.webp\" style=\"float:lef; height:350px; margin:10px; widtht:350px;</p> F﻿alarei brevemente da vida de cada um deles e indicarei livros para complementar os estudos e para conhecer melhor a vida desses gênios.\n\nH﻿istória da Arte pode ser considerado por alguns um assunto meio chato e por vezes massante, mas saber um pouquinho da vida deles e como foi que se tornaram os grandes nomes da pintura mundial, é sempre bom e agrega cultura à nossa vida e se formos viajar então, nossa... tudo fará muito mais sentido.\n\nD﻿esejo a todos uma excelente leitura.",
   "meta_title": "História da Arte: Grandes Mestres da Pintura",
   "meta_description": "U﻿m breve apanhado da vida dos maiores pintores da Arte Mundial de todos os tempos.  N﻿omes como Van Gogh, Monet, Kandinsky entre outros fazem parte dessa galeria de mestres da pintura.",
   "sections": [
@@ -10,7 +10,11 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<p><br />\n<img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/2.png\" style=\"float:left; height:100px; margin:10px; width:100px\" /></p>.png\n\n##### ***[V﻿an Gogh](https://www.artestore.com.br/posts/vincent-van-gogh-um-classico-da-arte-moderna)***\n\n##### [<p><img alt=\"src=\"https://www.artestore.com.br/img/uploads/2.png\" style=\"float:left; height:px; margin:10px; width:px</p>](https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista)\n\n##### ***﻿[M﻿onet](https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista)***\n\n##### [<p><img alt=\"src=\"https://www.artestore.com.br/img/uploads/10.png\" style=\"float:left; height:px; margin:10px; width:px</p>](https://www.artestore.com.br/posts/a-cor-por-kandinsky)\n\n##### ***[K﻿andinsky](https://www.artestore.com.br/posts/a-cor-por-kandinsky)***"
+      "markdown": "<p><br />\n<img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/11.png\" style=\"float:left; height:40px; margin:10px; width:40px\" /></p>\n\n***[V﻿an Gogh](https://www.artestore.com.br/posts/vincent-van-gogh-um-classico-da-arte-moderna)***\n\n<p><br />\n<img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/2.png\" style=\"float:left; height:40px; margin:10px; width:40px\" /></p>\n\n##### ***﻿[M﻿onet](https://www.artestore.com.br/posts/monet-o-mais-dedicado-impressionista)***\n\n<p><br />\n<img alt=\"\" src=\"https://www.artestore.com.br/img/uploads/10.png\" style=\"float:left; height:40px; margin:10px; width:40px\" /></p>\n\n##### ***[K﻿andinsky](https://www.artestore.com.br/posts/a-cor-por-kandinsky)***"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
