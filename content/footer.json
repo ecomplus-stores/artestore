@@ -12,12 +12,12 @@
         "url": "https://www.artestore.com.br/pages/sobre-nos"
       },
       {
-        "text": "Blog: Arte e Artesanato",
-        "url": "https://www.artestore.com.br/blog"
-      },
-      {
         "text": "Políticas de venda",
         "url": "https://www.artestore.com.br/pages/trocas"
+      },
+      {
+        "text": "Loja Online",
+        "url": "https://www.artestore.com.br/todos-os-produtos"
       }
     ]
   },
@@ -38,8 +38,8 @@
         "url": ""
       },
       {
-        "text": "Loja Online",
-        "url": "https://www.artestore.com.br/todos-os-produtos"
+        "text": "Blog",
+        "url": "https://www.artestore.com.br/blog"
       }
     ]
   },
