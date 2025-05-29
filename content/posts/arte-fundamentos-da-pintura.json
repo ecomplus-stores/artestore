@@ -11,6 +11,27 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/office-artesanato._cb537720932_uc432-290_.jpg",
+          "link": "https://amzn.to/4ebYg15"
+        },
+        {
+          "img": "/img/uploads/office-organizacao._cb537720932_uc432-290_.jpg",
+          "link": "https://amzn.to/4ebYg15"
+        },
+        {
+          "img": "/img/uploads/office-escolar._cb537720932_uc432-290_.jpg",
+          "link": "https://amzn.to/4ebYg15"
+        },
+        {
+          "img": "/img/uploads/office-escrita._cb537720932_uc432-290_.jpg",
+          "link": "https://amzn.to/4ebYg15"
+        }
+      ]
+    },
+    {
       "type": "blog",
       "enabled": true
     }
