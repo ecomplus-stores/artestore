@@ -6,18 +6,16 @@
     "background": "#de9e8c"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {}
+    ],
     "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/arte-pintura-desenho-teoria-estudo-cor?Arte",
-      "/todos-os-produtos?Todos os Produtos",
-      "/grandes-mestres-da-pintura-todos-tempos?Mestres da Pintura"
-    ],
+    "featured": [],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": false
 }
