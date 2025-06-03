@@ -7,6 +7,6 @@
     "todos-os-produtos"
   ],
   "phone_wpp": false,
-  "socials": true,
+  "socials": false,
   "alphabetical_order": false
 }
