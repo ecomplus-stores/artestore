@@ -27,16 +27,6 @@
     {
       "type": "custom-html",
       "html": "<!-- Trustvox -->\n<script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script><script>var _trustvox_colt = _trustvox_colt || [];_trustvox_colt.push(['_storeId', '1507'], ['_limit', '9']);</script>\n<!-- /Trustvox -->\n<div id=\"_trustvox_colt\"></div>\n"
-    },
-    {
-      "type": "custom-html",
-      "html": "​<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/posts/como-escolher-a-bolsa-de-praia-2020-10-01\">COMO ESCOLHER A BOLSA DE PRAIA CLIQUE AQUI</a></h4> "
-    },
-    {
-      "type": "responsive-banner",
-      "img": "https://www.artestore.com.br/img/uploads/bolsa-de-praia-como-escolher.webp",
-      "mobile_img": "/img/uploads/dicas-de-como-escolher-a-bolsa-de-praia.webp",
-      "link": "https://www.artestore.com.br/posts/como-escolher-a-bolsa-de-praia-2020-10-01"
     }
   ]
 }
