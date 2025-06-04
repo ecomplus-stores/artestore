@@ -6,7 +6,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/estudo-e-teoria-da-cor.webp"
+          "img": "/img/uploads/estudo-e-teoria-da-cor.webp",
+          "link": "https://www.artestore.com.br/posts/teoria-da-cor-o-universo-da-cor"
         },
         {
           "img": "/img/uploads/pintura-aulas-gratis.webp",
