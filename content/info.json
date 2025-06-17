@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Entregamos em todo o Brasil"
   },
   "installments": {
-    "show": true,
-    "text": "Parcelamos em 6x sem juros"
+    "show": false,
+    "text": ""
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
-    "text": "5% de desconto no PIX"
+    "show": false,
+    "text": ""
   }
 }
