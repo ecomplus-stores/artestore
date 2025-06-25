@@ -21,6 +21,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.amazon.com.br/shop/artestore_amor_pets?isPublicView=true\">CONFIRA NOSSAS DICAS NA AMAZON</a></h4>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
