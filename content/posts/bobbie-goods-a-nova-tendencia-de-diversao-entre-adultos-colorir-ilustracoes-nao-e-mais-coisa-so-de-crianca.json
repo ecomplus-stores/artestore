@@ -60,6 +60,20 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "https://m.media-amazon.com/images/G/32/Cohorts/2025/CustomerMostLoved/20797_Mostloved_visualnav_all_306x176._CB794203081_UC432,290_.jpg",
+          "alt": "Sou Influencer Amazon, conheça os produtos que recomendo",
+          "link": "https://www.amazon.com.br/shop/artestore_amor_pets?isPublicView=true"
+        }
+      ]
     }
   ]
 }
