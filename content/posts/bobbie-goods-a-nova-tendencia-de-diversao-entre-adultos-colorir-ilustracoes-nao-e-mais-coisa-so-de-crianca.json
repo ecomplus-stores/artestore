@@ -5,5 +5,61 @@
   "description": "Os livros de colorir para adultos ganharam destaque como uma forma criativa e terapêutica de aliviar o estresse, estimular a concentração e promover o autocuidado. Nos últimos anos ganhou novo fôlego com estilos mais acolhedores e fofos, como os da série Bobbie Goods. Além de um passatempo relaxante, colorir virou uma forma de expressão emocional e conexão com o presente, conquistando milhares de pessoas no Brasil e no mundo.",
   "meta_title": "Bobbie Goods, a nova tendência de diversão entre adultos, colorir ilustrações não é mais coisa só de criança",
   "meta_description": "Os livros de colorir para adultos ganharam destaque como uma forma criativa e terapêutica de aliviar o estresse, estimular a concentração e promover o autocuidado. A tendência começou a crescer em 2013 com obras detalhadas feitas especialmente para adultos e, nos últimos anos, ganhou novo fôlego com estilos mais acolhedores e fofos, como os da série Bobbie Goods. Além de um passatempo relaxante, colorir virou uma forma de expressão emocional e conexão com o presente, conquistando milhares de pessoas no Brasil e no mundo.",
-  "thumbnail": "/img/uploads/faca-uma-imagem-de-5a.png"
+  "thumbnail": "/img/uploads/faca-uma-imagem-de-5a.png",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Bobbie Goods, a nova tendência de diversão entre adultos, colorir ilustrações não é mais coisa só de criança",
+      "description": "Os livros de colorir para adultos ganharam destaque como uma forma criativa e terapêutica de aliviar o estresse, estimular a concentração e promover o autocuidado. Nos últimos anos ganhou novo fôlego com estilos mais acolhedores e fofos, como os da série Bobbie Goods. Além de um passatempo relaxante, colorir virou uma forma de expressão emocional e conexão com o presente, conquistando milhares de pessoas no Brasil e no mundo. Essa tendência tem nome e está bombando: livros de colorir para adultos, também conhecidos como Bobbie Goods, que virou quase sinônimo do movimento no Brasil"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "link": "https://amzn.to/44n9Wdd",
+          "img": "https://m.media-amazon.com/images/I/517x9Ta-nNL._AC_.jpg"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51BcE4jF12L._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51mHPKn1teL._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/412QUTXHVrL._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51oSudJU3uL._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51IC3u2G-DL._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51jV2D45Y3L._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        },
+        {
+          "img": "https://m.media-amazon.com/images/I/51kDj3vv09L._AC_.jpg",
+          "link": "https://amzn.to/44n9Wdd"
+        }
+      ]
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
