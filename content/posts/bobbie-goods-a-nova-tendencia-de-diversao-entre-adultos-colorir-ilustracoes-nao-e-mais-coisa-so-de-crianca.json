@@ -58,10 +58,6 @@
       ]
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -74,6 +70,10 @@
           "link": "https://www.amazon.com.br/shop/artestore_amor_pets?isPublicView=true"
         }
       ]
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
