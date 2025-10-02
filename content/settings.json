@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/artestore",
   "logo": "/img/uploads/animal-frinedly.png",
   "name": "Fabiane Al Alam",
-  "short_name": "Fabi Al Alam",
+  "short_name": "Artes Visuais e Bio",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#908a4d",
   "icon": "/img/uploads/foto-perfil-logo-artestore.webp",
   "store_id": 1094,
-  "description": "Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza, responsabilidade social e ambiental. ",
+  "description": "A cor pode transformar, animar e modificar um ambiente. Todos nós reagimos à cor, e atualmente, é possível levá-la a todas as áreas da vida pelo uso de materias, tecidos e tintas. O uso de uma ou várias cores no ambiente pode alterar a comunicação, as atitudes e a aparência das pessoas presentes; a cor pode acalmar, reduzir o estresse e a violência ou aumentar a vitalidade e a energia.",
   "large_icon": "/img/uploads/foto-perfil-logo-artestore.webp"
 }
