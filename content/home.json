@@ -32,6 +32,17 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/baaner-fino-artestore.webp",
+      "alt": "",
+      "mobile_img": "/img/uploads/banner-fino-artestore_m.webp"
+    },
+    {
+      "type": "page-title",
+      "title": "Artes Visuais, Artesanato e Tudo que é Feito à Mão",
+      "description": ""
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -45,21 +56,6 @@
           "mobile_img": ""
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/baaner-fino-artestore.webp",
-      "alt": "Artestore Moda Sustentável Peças Artesanais",
-      "mobile_img": "/img/uploads/banner-fino-artestore_m.webp"
-    },
-    {
-      "type": "page-title",
-      "title": "Artes Visuais, Artesanato e Tudo que é Feito à Mão",
-      "description": ""
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"\">NOSSO COMPROMISSO</a></h4>"
     },
     {
       "type": "banners-grid",
