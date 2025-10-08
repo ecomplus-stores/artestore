@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "Fabi Al-Alam",
+    "title": "Fabbi Al-Alam",
     "text": "Artista Plástica"
   },
   "links_1": {
@@ -46,7 +46,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
