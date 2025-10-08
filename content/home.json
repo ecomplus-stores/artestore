@@ -1,6 +1,6 @@
 {
   "meta_title": "Artes Visuais, Artesanato e Tudo que é Feito à Mão",
-  "meta_description": "Peças de arte e artesanato produzidas por artistas brasileiros com diversas técnicas, materiais e utilidades.",
+  "meta_description": "",
   "sections": [
     {
       "type": "banners-grid",
@@ -30,7 +30,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": null
     },
     {
       "type": "banners-grid",
