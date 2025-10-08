@@ -1,5 +1,5 @@
 {
-  "meta_title": "Artes Visuais, Artesanato e Tudo que é Feito à Mão",
+  "meta_title": "Artes Visuais, Pintura, Desenho e Tudo que é Feito à Mão",
   "meta_description": "",
   "sections": [
     {
@@ -26,6 +26,10 @@
     {
       "type": "info-bar",
       "enabled": false
+    },
+    {
+      "type": "blog",
+      "enabled": true
     },
     {
       "type": "banners-grid",
@@ -84,10 +88,6 @@
     {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">CONFIRA NOSSO CONTEÚDO</a></h4>"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
