@@ -88,14 +88,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "606ca1d933554a7d2d3cdbca:categories:Todos os Produtos:/todos-os-produtos",
-      "title": "NOSSOS PRODUTOS"
     }
   ]
 }
