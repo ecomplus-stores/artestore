@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">CONFIRA NOSSO CONTEÚDO</a></h4>"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -26,6 +22,10 @@
           "link": "https://www.artestore.com.br/pages/historia-da-arte-grandes-mestres-da-pintura"
         }
       ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.artestore.com.br/blog\">CONFIRA NOSSO CONTEÚDO</a></h4>"
     },
     {
       "type": "info-bar",
