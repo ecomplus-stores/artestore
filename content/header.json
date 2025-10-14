@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": "",
+    "text": "ArteBio Artes Visuais",
+    "link": "https://www.artestore.com.br",
     "color": "#ffffff",
     "background": "#05a3b1"
   },
@@ -15,5 +15,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": false
+  "search_input": false,
+  "popup": "/img/uploads/artes-visuais.png"
 }
