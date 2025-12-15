@@ -3,6 +3,10 @@
   "title": "Promoções e Cupons, Lojas e Produtos que Indico",
   "sections": [
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -22,9 +26,6 @@
           "link": "https://www.mercadolivre.com.br/social/fx20251206184602"
         }
       ]
-    },
-    {
-      "type": "banners-grid"
     }
   ]
 }
