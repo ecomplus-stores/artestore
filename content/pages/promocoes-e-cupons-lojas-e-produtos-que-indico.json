@@ -5,6 +5,10 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5536397178879388\"\n     crossorigin=\"anonymous\"></script>"
     }
   ]
 }
