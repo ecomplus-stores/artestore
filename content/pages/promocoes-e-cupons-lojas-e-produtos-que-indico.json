@@ -12,7 +12,7 @@
     },
     {
       "type": "custom-html",
-      "html": "// Exemplo conceitual para buscar ofertas no Mercado Livre\nconst axios = require('axios');\n\nasync function buscarPromocoesMercadoLivre() {\n    try {\n        // Busca produtos com a tag \"deal_of_the_day\" (oferta do dia) na categoria de Arte\n        const url = 'https://mercadolibre.com';\n        const response = await axios.get(url);\n        \n        // Mapeia os resultados para enviar ao seu site\n        const produtos = response.data.results.map(item => ({\n            titulo: item.title,\n            preco: item.price,\n            link: item.permalink, https://link.amazon/B05VYjI9A\n            imagem: item.thumbnail\n        }));\n\n        return produtos;\n    } catch (error) {\n        console.error('Erro ao buscar ofertas:', error);\n        return [];\n    }\n}\n"
+      "html": "// Exemplo conceitual para buscar ofertas no Mercado Livre\nconst axios = require('axios');\n\nasync function buscarPromocoesMercadoLivre() {\n    try {\n        // Busca produtos com a tag \"deal_of_the_day\" (oferta do dia) na categoria de Arte\n        const url = 'https://mercadolibre.com';\n        const response = await axios.get(url);\n        \n        // Mapeia os resultados para enviar ao seu site\n        const produtos = response.data.results.map(item => ({\n            titulo: item.title,\n            preco: item.price,\n            link: item.permalink, \n            imagem: item.thumbnail\n        }));\n\n        return produtos;\n    } catch (error) {\n        console.error('Erro ao buscar ofertas:', error);\n        return [];\n    }\n}\n"
     }
   ]
 }
